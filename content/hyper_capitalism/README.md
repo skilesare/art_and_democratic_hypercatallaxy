@@ -1,1 +1,1 @@
-# Hyper Capitalism
+# Democratic Capitalism

@@ -4,7 +4,7 @@
 * [About the Author](about_the_author/README.md)
 * [Book I - The Pattern Language](the_pattern_language/README.md)
    * [Global Level](the_pattern_language/global_level.md)
-       * [EPI. Economic Piston](the_pattern_language/epi_economic_piston)
+       * [EPI. Economic Piston](the_pattern_language/epi_economic_piston.md)
        * [CVX. Converse Transformation](the_pattern_language/cvx_converse_transformation.md)
        * [BIM. Bi Modal](the_pattern_language/bim_bi_modal.md)
        * [PEL. Predictive Elimination](the_pattern_language/pel_predictive_elimination)
@@ -51,6 +51,6 @@
        * [Tax](hyper_capitalism/tax)
    * [Democratic Capitalisim Modeled](hyper_capitalism/democratic_capitalisim_modeled)
        * [What happens when someone choses to not use thier money?](hyper_capitalism/what_happens_when_someone_chose_to_not_use_thier_money.md)
-       * [What Happens when a Capitalist choses to live off his profits?](hyper_capitalism/what_happens_when_a_capitalist_choses_to_live_off_his_profits)
+       * [What Happens when a Capitalist choses to live off his profits?](hyper_capitalism/what_happens_when_a_capitalist_choses_to_live_off_his_profits.md)
 * [Book III - Art](book_iii_-_art/README.md)
 

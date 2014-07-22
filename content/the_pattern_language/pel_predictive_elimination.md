@@ -2,7 +2,7 @@
 
 ![COMimage](images/predictiveel.jpg)
 
-... how does one achieve a convex transformation?
+... how does one achieve a convex transformation **(CVX)**?
 
 
 **How can a system be adjusted in the manner of convex transformation.**

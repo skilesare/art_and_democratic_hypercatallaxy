@@ -2,7 +2,7 @@
 
 ![COMimage](images/convex.gif)
 
-... how can an economic system be made into a Economic Piston(EPI)?
+... how can an economic system be made into a Economic Piston **(EPI)**?
 
 
 **Many systems are disjointed and volatile by nature.  In order to make these systems thrive, they must be able to not only withstand volatility but thrive off of volatility.  AKA Anti-fragile.**
@@ -30,4 +30,4 @@ Therefore:
 
 ----------
 
-Two forms of convex transformation are the Bi-modal Strategy(BIM) and Predictive Elimination(PEL).
+Two forms of convex transformation are the Bi-modal Strategy **(BIM)** and Predictive Elimination **(PEL)**.

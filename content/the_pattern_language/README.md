@@ -68,7 +68,8 @@ so that the state and groups of states can establish a set of Markets that have 
 
 and yet still promote...
 
-INT. Interdependence and/or nth order decision making
+#### INT. Interdependence and/or nth order decision making
+
 
 #### CAP. Capital Investment
 

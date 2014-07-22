@@ -33,7 +33,7 @@
        * [ECR. Neutralization of Economic Rent](the_pattern_language/ecr_neutralization_of_economic_rent)
        * [NOC. Negation of opportunity costs](the_pattern_language/noc_negation_of_opportunity_costs)
        * [PDS. Predistribution of super profits](the_pattern_language/pds_predistribution_of_super_profits.md)
-       * [FSP. Diminishing value of future superprofits](the_pattern_language/fsp_diminishing_value_of_future_superprofits)
+       * [FSP. Diminishing value of future superprofits](the_pattern_language/fsp_diminishing_value_of_future_superprofits.md)
    * [Legal Entity Level](the_pattern_language/legal_entity_level.md)
        * [KIL. Corporate Death](the_pattern_language/kil_corporate_death)
        * [LLR. Limited Risk instead of Limited Liability](the_pattern_language/llr_limited_risk_instead_of_limited_liability)
@@ -53,4 +53,7 @@
        * [What happens when someone choses to not use thier money?](hyper_capitalism/what_happens_when_someone_chose_to_not_use_thier_money.md)
        * [What Happens when a Capitalist choses to live off his profits?](hyper_capitalism/what_happens_when_a_capitalist_choses_to_live_off_his_profits.md)
 * [Book III - Art](book_iii_-_art/README.md)
+   * [Authority](book_iii_-_art/authority)
+   * [Transparency](book_iii_-_art/transparency)
+   * [Art](book_iii_-_art/art)
 

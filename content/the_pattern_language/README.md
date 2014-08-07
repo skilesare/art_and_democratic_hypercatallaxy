@@ -82,6 +82,7 @@ and make more efficient the...
 
 #### PDS. Predistribution of super profits
 #### FSP. Diminishing value of future superprofits
+#### INS. Instant Transfer of Funds
 
 so that legal entities can be restricted by and unto...
 
@@ -104,7 +105,7 @@ and yet maintain their right to
 #### PRI. Privacy and Private Dispersal
 
 
-
+Note: A Pattern Language in and of itself is not sufficent to accomplish the task in front of us.  One must move beyond the pattern language and create a form language and (re)generative processes that support the pattern language and can make the pattern language real in the living world. Thus we move beyond Book I to Book II Democratic Capitalism (The Form Language) and Book III Art (the generative perscription for implementing one instance of our goals).
 
 
 ##Todos:

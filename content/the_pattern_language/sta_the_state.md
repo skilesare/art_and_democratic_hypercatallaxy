@@ -1,30 +1,32 @@
 # STA. The State
 
-... how can one ensure the value of money **(MNY)** does become volitile and that it maintains the measure of value **(MOV)**? How can the liquidity **(LIQ)** of money be encouraged?
+... how can an economic pistion **(EPI)** organize its self at the top level?
 
-**If money is a perfect store of value, why would anyone part with it? If too many people have too much money and demand skyrockets, how can inflation be prevented? If salaries crash and no one has any cash, how can prices be kept from deflating?**
+**Absolute power corrupts absolutly.  How can global power be broken up to ensure a balance of power between citezens of the world.**
 
-Current money is a 'store of value'.  If you have a dollar today.  Bury it for 10 years. And then dig it up. You still have a dollar.
+For recent history, humans have 'chosen' to seperate themselves into states.  Some of these states hold massive power and some are weak.
 
-Your only enemy is inflation. Your only friend, deflation.  It is very unlikely that you will be able to buy the same amount with that dollar in 10 years.
+We don't pretend to have the answer to which 'size' a state should be but we do contend that it needs to exist.
 
-If one burried a bushel of wheat, would you expect it to be worth the same in 10 years when it is rotted?
+We can say that should not be one global state.
 
-Even gold decays on an atomic scale. And gold is worthless for all but petty or highly scientific things.
+We can also say that it would be incovienent for the laws of the land to change everytime you crossed a street so a state should not be the size of a ciy block.
 
-All things wither and die.  And so we believe that our money must do so as well.  Now the good news is that things full of life also grow and reproduce.  Do not despair that our money will die.  It will also thrive.
+Somewhere in betweend is the answer and if take the idea of wholeness, it is likely that the answer of the size of a state is dependent on the states around it, and the geography, and the make up of the organizations of its citizens.
 
-We propose to control inflation/deflation with Demurrage.  Proposed by Silvio Gessel in the 19th century, Demurrage is a process by which a unit of currency 'decays.'  The rate at which it decays can be manipulated as to encourage the liquidity and flow of money through the economic piston.  If inflation is too high, the demurrage value can be lowered and people will be more encouraged to carry cash balances.  If deflation threatens, the demurrage rate can be increased to disuade people from holding cash.  They will look to use it to buy capital and things that maintain value.  This will also lead to less waste.
+So if size is variable, what is constant?  The state is helpful for the organizing of a people into a coherent group so that they can govern themselves.  By creating a state with a constituition that protects the rights of citizens, order and human dignity can both be maintained.
 
-As a hard example, lets say that the demurrage rate is 1% per year.  At the end of each month the owner of a dollar would have to purchase a .01 dollar stamp and affix it to the dollar to maintain its value.  If the owner does not want to pay the tax, he should spend the dollar before the tax is due. If she is wise she will spend it on something that may return her a dollar or more's worth of value in the future.  This is the idea of stamped money and it is not practical in our digital age, but the concept can be extrpolated out to digital currency.
+The state can issue laws and help standardize society on certain protocols and language for transacting buisness.  We will discuss these later.
+
+On the subject of ideology, I would like to try to avoind picking a side.  The citizens of the state must decide for themselves what form of government to take.  History provides many lessons about the evils of Imperialism, Capitalisim, Democracy, Communisim, Socialism, etc.  Our hope here is to create a form of money that would moderate those evils in all scenarios.
 
 Therefore:
 
-**Inflation and deflation must be controlled with demurrage.**
+**The state will exist when a group of people organize.  Create a money that helps reduce the propencity of the state to cause harm.**
 
 ----------
 
-Demurrage can provide solutions to taxation **(TAX)** and must be balanced with Interdependance and/or nth order decision making **(INT)**.
+The State is suppored by the rule of law **(LAW)**. It funds itself via tax **(TAX)** on citizens. It has the right to Issue **(ISS)** currency and declare it Legal Tender **(LTN)**. The state should be supported and run by The People **(PEO)** and it must be be forthcoming with them via public Transparency **(TRN)**.  Inside of a state, and across states, Markets **(MKT)** will form.
 
 
 

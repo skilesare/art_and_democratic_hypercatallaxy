@@ -20,9 +20,11 @@ The state can issue laws and help standardize society on certain protocols and l
 
 On the subject of ideology, I would like to try to avoind picking a side.  The citizens of the state must decide for themselves what form of government to take.  History provides many lessons about the evils of Imperialism, Capitalisim, Democracy, Communisim, Socialism, etc.  Our hope here is to create a form of money that would moderate those evils in all scenarios.
 
+It is also worth noting that the future of the state may be multi-leveled and abstract.  Today in America we have National, State, County, and City governments.  All levels must currently be in agreement and the lower levels cannot override laws and rights granted at higher levels.  This is currently geographically based, but that is not a requirment.  We will see in our discussion of money how a citizen may elect to participate in government tied to many aspects besides geography.
+
 Therefore:
 
-**The state will exist when a group of people organize.  Create a money that helps reduce the propencity of the state to cause harm.**
+**The state will exist when a group of people organize.  Create a money that helps reduce the propensity of the state to cause harm.**
 
 ----------
 

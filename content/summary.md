@@ -25,7 +25,6 @@
        * [LAW. Rule of law](the_pattern_language/law_rule_of_law.md)
        * [LTN. Legal Tender](the_pattern_language/ltn_legal_tender.md)
        * [ISS. Issuance](the_pattern_language/iss_issuance.md)
-       * [PEO. A representative Democracy and/or The People](the_pattern_language/peo_a_representative_democracy_andor_the_people.md)
        * [TRN. Public Transparency](the_pattern_language/trn_public_transparency.md)
        * [TAX. Tax](the_pattern_language/tax_tax.md)
    * [Market Place Level](the_pattern_language/market_place_level.md)

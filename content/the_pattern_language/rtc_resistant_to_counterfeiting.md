@@ -16,6 +16,6 @@ Therefore:
 
 ----------
 
-Counterfeiting can be battled with Public Transparency **(TRN)** and Public Ledger **(PLG)**.
+Counterfeiting can be battled with the Public Ledger **(PLG)**.
 
 

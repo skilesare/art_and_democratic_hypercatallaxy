@@ -27,6 +27,6 @@ Therefore:
 
 ----------
 
-Artifical Capital can be controled via Demurrage **(DEM)**, Tax **(TAX)**, Diminishing value of future superprofits **(FSP)**, and Corporate Death **(KIL)**.
+Artifical Capital can be controled via Demurrage **(DEM)**, Tax **(TAX)**, Diminishing value of future superprofits **(FSP)**, and Corporate Death **(KIL)**. Artificial Capital can be tracked in the Public Ledger **(PLG)**.
 
 

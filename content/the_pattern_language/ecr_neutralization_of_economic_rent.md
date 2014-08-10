@@ -33,7 +33,8 @@ Therefore:
 
 ----------
 
-*The concept that will be discussed later is the idea of Prefs.  When a buyer transfers cash to an account, the buyer will recieve a type of prefered stock in that account.  This prefered stock will recieve payments of Demurrage and/or dividends.  In this way a buyer may be more than compensated for the economic rent paid.
+The neutrilization of economic rent **(ECR)** can be accomplished with the predistribution of economic rent **(PRF)**.
+
 
 
 

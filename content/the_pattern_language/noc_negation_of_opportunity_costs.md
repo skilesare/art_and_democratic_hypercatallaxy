@@ -22,7 +22,7 @@ To look at it another way, If Choice a Pays $10, and Choice B pays $20, our oppo
 
 What if we drasticly screwed up the idea of opportunity costs.  I've used the word negation because I think it is possible that we could drasticly change the conversation from opportunity costs to future economic potential.
 
-Our money should do this.*
+Our money should do this.
 
 We take pull requests.
 
@@ -32,7 +32,7 @@ Therefore:
 
 ----------
 
-*See discussion of Prefs in **(ECR)**
+Negation of opportunity costs can be accomplished with the predistribution of economic rents **(PRF)**
 
 
 

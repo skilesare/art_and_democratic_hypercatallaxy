@@ -30,7 +30,7 @@
    * [Market Place Level](the_pattern_language/market_place_level.md)
        * [MKT. The Market](the_pattern_language/mkt_the_market.md)
        * [SUP. Supply](the_pattern_language/sup_supply.md)
-       * [DEM. Demand](the_pattern_language/dem_demand.md)
+       * [DMD. Demand](the_pattern_language/dem_demand.md)
        * [INT. Interdependence and/or nth order decision making](the_pattern_language/int_interdependence_andor_nth_order_decision_making.md)
        * [ECR. Neutralization of Economic Rent](the_pattern_language/ecr_neutralization_of_economic_rent.md)
        * [NOC. Negation of opportunity costs](the_pattern_language/noc_negation_of_opportunity_costs.md)

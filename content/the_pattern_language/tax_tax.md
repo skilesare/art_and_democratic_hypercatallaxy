@@ -25,7 +25,7 @@ Therefore:
 
 ----------
 
-Taxation can help netrulize economic rent **(ECR)** and predistribut superprofits **(PDS)**. Contributions to the state can be tracked in the public ledger **(PLG)**.  Taxation can help support government services suporting Human Dignity **(DIG)**.
+Taxation can help predistribute superprofits **(PDS)**. Contributions to the state can be tracked in the public ledger **(PLG)**.  Taxation can help support government services suporting Human Dignity **(DIG)**.
 
 
 

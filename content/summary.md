@@ -36,7 +36,7 @@
        * [PRF. Predistribution of economic rent](the_pattern_language/pds_predistribution_of_super_profits.md)
        * [DER. Diminishing value of future economic rent](the_pattern_language/fsp_diminishing_value_of_future_superprofits.md)
        * [INS. Instant Transfer](the_pattern_language/ins_instant_transfer.md)
-       * [PLG. Public Ledger](the_pattern_language/bch_the_blockchain.md)
+       * [PLG. Public Ledger](the_pattern_language/plg_the_publicledger.md)
    * [Legal Entity Level](the_pattern_language/legal_entity_level.md)
        * [LGE. Legal Entities](the_pattern_language/legal_entities.md)
        * [KIL. Corporate Death](the_pattern_language/kil_corporate_death.md)

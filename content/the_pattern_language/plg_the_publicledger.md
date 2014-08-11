@@ -18,11 +18,13 @@ Because private transactions will take extra time to anonymize, we may not be ab
 
 Certain account types may be restrited from using private transactions.  For example, corporations and/or the state should not be allowed to use such types of transactions.  Privacy should be a right reserved for citizen type accounts only.
 
+How can we secure the public ledger?  Using cyptocurrency style security we can secure block of transactions, and distribute the keys to the public.  By doing so, a nerferious entity will not be able to 'rollback' transactions or double spend. When, via the rule of law, a change to the ledger needs to be made, it must be done via a correction entry and will be subject to democratic veto.
+
 Therefore:
 
 **Develop a public ledger system that protects the rights of citizens for privacy but also allows for the registering of ownership.**
 
 ----------
 
-The public Ledger helps enable Everyone is a bank **(BNK)** and Human Dignaty Services **(DIG)** Included in the public ledger is the fact that Privacy and Private Dispersal **(PRI)** helps secure the right to privacy for the citizen **(CTZ)**. The public ledger helps secure the right to the full output of labor for the citizen **(FOL)**.
+The public Ledger helps enable Everyone is a bank **(BNK)** and Human Dignaty Services **(DIG)** Included in the public ledger is the fact that Privacy and Private Dispersal **(PRI)** helps secure the right to privacy for the citizen **(CTZ)**. The public ledger helps secure the right to the full output of labor for the citizen **(FOL)**.  Correction records should be subject to democratic veto **(VTO)**.
 

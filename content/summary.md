@@ -54,6 +54,7 @@
        * [WEL. Welfare](the_pattern_language/wel_welfare.md)
        * [HOM. The Home](the_pattern_language/hom_the_home.md)
        * [VTO. Democratic Veto](the_pattern_language/vto_democratic_veto)
+       * [LEG. Legacy](the_pattern_language\leg_legacy)
 * [Book II - Democratic Capitalism](hyper_capitalism/README.md)
    * [Fundamentals of Democratic Capitalism](hyper_capitalism/fundamentals_of_democratic_capitalism)
        * [Prefs](hyper_capitalism/prefs)

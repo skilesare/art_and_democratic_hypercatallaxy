@@ -18,7 +18,11 @@ This trend started when investors wanted to take large amounts of risk, like sen
 
 We will speak to the efficacy of this choice in the chapter on Limited Risk.
 
+The original charters were for limited lengths of time.  They ended and either had to be renewed or expire.  We no longer have this restriction and as we have spoken of in other chapters, 'immortality' is not a natural feature. It leads to concentrated power and abuse of that power.  We must do what we can to neutralize the power of this artifical construction.
+
 For now we will grant that our system of money should allow for legal entities. Our system will allow anyone, to create a legal entity account in the system for any reason.  The underlying rules of who owns the account will be handled by rule of law.
+
+The forming of corporations generally results in the production of artifical capital. The distribution and concentration of this artifical capital can lead to income imbalances if not controled.
 
 It could be possible to add a layer that allows a group of citizen accounts to submit cash to an account in exchange for common-voting stock in the account, but this system may be outside the scope of our project.
 

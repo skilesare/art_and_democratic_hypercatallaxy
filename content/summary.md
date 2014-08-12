@@ -44,7 +44,7 @@
        * [LBR. Enrich Labor](the_pattern_language/lbr_enrich_labor.md)
    * [Citizen Level](the_pattern_language/citizen_level.md)
        * [CTZ. The Citizen](the_pattern_language/ctz_the_citizen.md)
-       * [SCZ. Selective Citizenship](the_pattern_language/scz_selective_citizenship)
+       * [SCZ. Selective Citizenship](the_pattern_language/scz_selective_citizenship.md)
        * [FOL. The right to the full output of labor](the_pattern_language/fol_the_right_to_the_full_output_of_labor.md)
        * [BNK. Everyone is a bank](the_pattern_language/bnk_everyone_is_a_bank.md)
        * [STH. Statutory Theft](the_pattern_language/sth_statutory_theft.md)

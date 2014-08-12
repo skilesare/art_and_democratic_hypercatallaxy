@@ -14,6 +14,8 @@ Texas might compete with other states for business by only requiring 6%.  Housto
 
 What if I want benifits of being both a citizen of Texas and New York?  I could elect to have a second citizenship.  I will have more of my pref payments go to taxes, but I will procure more benifits. In addition, a union could require a demurrage tax percentage of 1% to be a member of union.  There could be other requirments as well so it will need to be a mutual system where both the citzen and the organization agree that the member is a citizen.
 
+We believe that the ease of collection of funds via this manner will entice organizations and states to subject themselves to the democratic veto that will be discussed later.
+
 We will speak more to the powers that citizenship achieves later when we talk about Democratic Veto.
 
 What about non resident accounts?  Can a forigner hold an account on our system?  Yes.  These accounts will be issued by the issuer and will not have citizen rights but may establish demurrage amounts by rule of law.  If the taxes are too high, foriegn entities may choose to do business elsewhere.

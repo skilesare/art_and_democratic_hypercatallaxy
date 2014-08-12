@@ -14,13 +14,15 @@ We believe in a democratic system where each citizen has one vote.  If a child i
 
 We need to establish and protect the rights of citizens above the rights of the state or the legal entity.
 
+Let us explore the idea of a citizen a little more closely.  I'm a citizen of the United States, Texas, and Houston.  I have other things that I'm a member of and get a 'vote' in.  Am I a citizen of those things? Should I be? If I am a citizen of the United States, can I also be a citizen of France?  What if I want to be both?  We will discuss this in the article on Selective Citizenship.
+
 Therefore:
 
 **Make the citizen the central focus of our economic piston and protect the citizen's rights above all other rights.**
 
 ----------
 
-Citizens have the right to the full output of labor **(FOL)** and the right to be a bank **(BNK)**.  They are protected by statetory theft **(STH)** laws. They have the right to privacy and private dispersal **(PRI)** and human dignity frameworks **(DIG)**.  They wiled the democratic veto **(VTO)** and can leave a legacy **(LEG)** in our system.
+Citizens have the right to the full output of labor **(FOL)** and the right to be a bank **(BNK)**. Citizens should have the power to select their citizenship. They are protected by statetory theft **(STH)** laws. They have the right to privacy and private dispersal **(PRI)** and human dignity frameworks **(DIG)**.  They wiled the democratic veto **(VTO)** and can leave a legacy **(LEG)** in our system.
 
 
 

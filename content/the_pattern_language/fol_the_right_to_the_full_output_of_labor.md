@@ -29,7 +29,7 @@ Therefore:
 
 ----------
 
-The full output of labor can help contribute to a citizens Legacy **(LEG)**.
+The full output of labor can help contribute to a citizens Legacy **(LEG)**. It his protected by statutory theft **(STH)**.
 
 
 

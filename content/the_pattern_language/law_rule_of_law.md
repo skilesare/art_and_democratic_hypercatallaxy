@@ -21,7 +21,7 @@ Therefore:
 
 ----------
 
-Rule of law is established by the citizens **(CTZ)** and can be held accountable by public transparency **(TRN)**.  It can establish Legal Tender **(LTN)** and the public ledger **(PLG)**. Rule of Law establishes the existance and rights of a Legal Entity **(LGE)** and enforces the payment of tax**(TAX)**.  Rule of law can also establish the formalness and regulatory level of Markets **(MKT)**.
+Rule of law is established by the citizens **(CTZ)** and can be held accountable by public transparency **(TRN)**.  It can establish Legal Tender **(LTN)** and the public ledger **(PLG)**. Rule of Law establishes the existance and rights of a Legal Entity **(LGE)** and enforces the payment of tax**(TAX)**.  Rule of law can also establish the formalness and regulatory level of Markets **(MKT)**. Rule of law can establish stautory theft **(STH)**.
 
 
 

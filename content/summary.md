@@ -33,7 +33,7 @@
        * [INT. Interdependence and/or nth order decision making](the_pattern_language/int_interdependence_andor_nth_order_decision_making.md)
        * [ECR. Neutralization of Economic Rent](the_pattern_language/ecr_neutralization_of_economic_rent.md)
        * [NOC. Negation of opportunity costs](the_pattern_language/noc_negation_of_opportunity_costs.md)
-       * [PER. Predistribution of economic rent](the_pattern_language/pds_predistribution_of_super_profits.md)
+       * [PRF. Predistribution of economic rent](the_pattern_language/pds_predistribution_of_super_profits.md)
        * [PFP. Principal of First Pref Payment](the_pattern_language/pfp_principal_of_first_pref_payment.md)
        * [DER. Diminishing value of future economic rent](the_pattern_language/fsp_diminishing_value_of_future_superprofits.md)
        * [INS. Instant Transfer](the_pattern_language/ins_instant_transfer.md)

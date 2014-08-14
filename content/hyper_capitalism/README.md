@@ -10,18 +10,24 @@ The types of accounts
 2. Citizen Accounts
 3. Legal Entity Accounts
 4. Forigen Accounts
+5. Privacy Accounts
 
 The Key money flow concepts
 
-5. Prefs
+5. Public Ledger
+6. Prefs
 6. Demurrage
 7. Tax
+8. Catch Up
+9. Legacy
+10. Pass through
 
 The levers of economic manipulation controled by the issuer of the currency
 
 7. Demurrage Rate
 8. Retaining Rate
 9. Issuance Rate
+10. Legacy Rate
 
 The political objects tied to the currency
 

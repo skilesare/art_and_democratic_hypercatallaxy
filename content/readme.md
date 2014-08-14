@@ -1,4 +1,4 @@
-# Art and Democratic Capitalism
+# Art and Democratic Hypercapitalism
 
 In book I we take a look at the pattern language considered for this document
 

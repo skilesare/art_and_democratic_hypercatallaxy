@@ -69,7 +69,7 @@
        * [Catch Up](hyper_capitalism/catch_up.md)
        * [Tax](hyper_capitalism/tax.md)
        * [Prefs](hyper_capitalism/prefs.md)
-       * [Legacy](hyper_capitalism/legacy)
+       * [Legacy](hyper_capitalism/legacy.md)
        * [Pass Through](hyper_capitalism/pass_through)
        * [Demurrage Rate](hyper_capitalism/demurrage_rate.md)
        * [Retaining Rate](hyper_capitalism/retaining.md)

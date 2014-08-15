@@ -61,7 +61,7 @@
    * [Fundamentals of Democratic Capitalism](hyper_capitalism/fundamentals_of_democratic_capitalism.md)
        * [State Accounts](hyper_capitalism/state_accounts.md)
        * [Citizen Accounts](hyper_capitalism/citizen_accounts.md)
-       * [Legal Entity Accounts](hyper_capitalism/legal_entity_accounts)
+       * [Legal Entity Accounts](hyper_capitalism/legal_entity_accounts.md)
        * [Forigen Accounts](hyper_capitalism/forigen_accounts)
        * [Privacy Accounts](hyper_capitalism/privacy_accounts.md)
        * [Public Ledger](hyper_capitalism/public_ledger)

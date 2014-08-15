@@ -7,3 +7,5 @@ The United States may choose to limit citizen accounts to those with social secu
 A corporation may choose to issue citizen accounts to anyone alive.  We think that geograpic restrictions still make sense, but they are not a requriment.
 
 In the most grand scheme, the citizens of the world may attempt to create a global corporation where any living person can be a citizen.
+
+Citzen accounts have the power of veto over state accounts that they contribute taxes toward.

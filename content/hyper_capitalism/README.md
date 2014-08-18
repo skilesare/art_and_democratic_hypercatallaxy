@@ -15,12 +15,14 @@ The types of accounts
 The Key money flow concepts
 
 5. Public Ledger
-6. Prefs
 6. Demurrage
-7. Tax
 8. Catch Up
+9. Tax
+10. Prefs
 9. Legacy
 10. Pass through
+11. Loan Pool
+12. Loan Officers
 
 The levers of economic manipulation controled by the issuer of the currency
 
@@ -34,5 +36,7 @@ The political objects tied to the currency
 10. Required Tax
 11. Elective Tax
 12. Veto
+
+
 
 We will then provide instructive scenarios about how the forms will interact to form our vision of democratic hypercaptialism.

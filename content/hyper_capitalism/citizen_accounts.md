@@ -4,7 +4,7 @@ Citizen accounts are issued to humans that are part of a market and can prove th
 
 The United States may choose to limit citizen accounts to those with social security numbers.
 
-A corporation may choose to issue citizen accounts to anyone alive.  We think that geograpic restrictions still make sense, but they are not a requriment.
+A corporation may choose to issue citizen accounts to anyone alive.  We think that geographic restrictions still make sense, but they are not a requirement.
 
 In the most grand scheme, the citizens of the world may attempt to create a global corporation where any living person can be a citizen.
 

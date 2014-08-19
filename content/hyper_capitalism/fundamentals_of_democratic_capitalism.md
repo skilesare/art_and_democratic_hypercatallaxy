@@ -1,1 +1,1 @@
-# Fundamentals of Democratic Capitalism
+# Fundamentals of Democratic Hypercapitalism

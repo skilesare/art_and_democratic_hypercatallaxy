@@ -1,1 +1,1 @@
-# Democratic Capitalisim Modeled
+# Democratic Capitalism Modeled

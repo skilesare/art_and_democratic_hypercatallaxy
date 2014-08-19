@@ -1,2 +1,2 @@
-# What Happens when a Capitalist choses to live off his profits?
+# What Happens when a Capitalist chooses to live off his profits?
 

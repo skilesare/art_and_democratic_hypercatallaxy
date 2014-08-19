@@ -1,6 +1,6 @@
 # Catch Up
 
-Catch up occurs whenever an account wants to spend or recive cash and when it wants to claim pref payments.
+Catch up occurs whenever an account wants to spend or receive cash and when it wants to claim pref payments.
 
 By default, pref payments are not added to an account balance.  The payments are added to a queue and when the credits are claimed we need to demurrage the balance at each interval for each payment in the queue.
 

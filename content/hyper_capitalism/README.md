@@ -2,14 +2,14 @@
 
 We have chosen the name Democratic Hypercapitalism to speak towards our systems key concepts of the democratic veto and the issuing of capital upon each transaction.
 
-In this book we will flesh out our form langauge for our new money and provide conceptual details.  The following forms will be discussed in detail:
+In this book we will flesh out our form language for our new money and provide conceptual details.  The following forms will be discussed in detail:
 
 The types of accounts
 
 1. State Accounts
 2. Citizen Accounts
 3. Legal Entity Accounts
-4. Forigen Accounts
+4. Foreign Accounts
 5. Privacy Accounts
 
 The Key money flow concepts
@@ -24,7 +24,7 @@ The Key money flow concepts
 11. Loan Pool
 12. Loan Officers
 
-The levers of economic manipulation controled by the issuer of the currency
+The levers of economic manipulation controlled by the issuer of the currency
 
 7. Demurrage Rate
 8. Retaining Rate

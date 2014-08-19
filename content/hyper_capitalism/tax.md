@@ -6,7 +6,7 @@ A portion of the Demurrage is allocated to tax.  This amount is determined by:
 2. The citizen by electing tax
 3. The legal entity by electing tax
 
-Some elective taxes may be requred by rule of law.  For instance, the state of Texas may requrire an entity to elect a tax to operate in the state.
+Some elective taxes may be required by rule of law.  For instance, the state of Texas may require an entity to elect a tax to operate in the state.
 
 The percentages of tax are removed from the Demurrage amount before the pref payments are sent out.
 
@@ -24,6 +24,6 @@ Demurrage Amount: $1000
 Tax: $246
 To Pref Payments: $754
 
-These amounts are transfered to the Corporate Accounts as pref payments.
+These amounts are transferred to the Corporate Accounts as pref payments.
 
-What about Tax on State Accounts?  Tax on state accounts is removed from the money supply.  This is how our form of money naturlly degrades.
+What about Tax on State Accounts?  Tax on state accounts is removed from the money supply.  This is how our form of money naturally degrades.

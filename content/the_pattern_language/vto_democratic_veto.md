@@ -8,7 +8,7 @@ When a citizen pays taxes they should get a vote in that 'state'.  We will do th
 
 This veto is a 3 phase vote. Citizens can vote 'abstain', 'deny', 'override' on a state account.
 
-This gives power to small minoriites to stop the payment from state accounts until their concerns are addresed or their negative vote is overridden by other citizens.
+This gives power to small minorities to stop the payment from state accounts until their concerns are addressed or their negative vote is overridden by other citizens.
 
 We also don't want small issues gumming up the general working of the state.  As a result we should provide for agency accounts that can be selectively vetoed when particular issues arise in the running of those agencies.
 

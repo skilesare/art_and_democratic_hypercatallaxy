@@ -13,7 +13,7 @@ Money must be issued.  There are way of doing this:
 
 Do we always need new money?  Not always, but in order to balance the amount of money in circulation and the production of an economy, money will need to be issued when production increases.
 
-One issue that we currently have is that the fed tries to predict the amount of money that will be needed and adjust reserve rates and fed borrowing rates to affect the number of loans being issued.  In a sense they are trying to predict what will happen.  This is a foolish operation and has gotten us in trouble more than once.  Can we determine a way to issue currency so that is a direct function of produciton instead of predictive?
+One issue that we currently have is that the fed tries to predict the amount of money that will be needed and adjust reserve rates and fed borrowing rates to affect the number of loans being issued.  In a sense they are trying to predict what will happen.  This is a foolish operation and has gotten us in trouble more than once.  Can we determine a way to issue currency so that is a direct function of production instead of predictive?
 
 What about when production falls?  How is money removed.  This is discussed in the chapter on Demurrage.
 

@@ -2,9 +2,9 @@
 
 ... How can the **(CTZ)** leave a legacy after death and ensure the full output of their labor **(FOL)** is left to that legacy?
 
-**Humans have an inate desire to leave a legacy to their loved ones.  How can we provide for that without centralizing capital.**
+**Humans have an innate desire to leave a legacy to their loved ones.  How can we provide for that without centralizing capital.**
 
-We should provide for the inheritance of prefs, cash, and capital to decendants in a progressive manner.
+We should provide for the inheritance of prefs, cash, and capital to descendants in a progressive manner.
 
 We want productive citizens to act in their interest and the interest of their families. It is a core driver in our capitalism, but we must also provide for the fact that capital tends to concentrate.
 

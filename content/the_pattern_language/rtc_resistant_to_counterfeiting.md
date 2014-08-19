@@ -4,11 +4,11 @@
 ... how can one ensure the money **(MNY)** cannot be falsely created or duplicated?
 
 
-**If money is easily reproduceable with no work or controls it will be come worthless?**
+**If money is easily reproducible with no work or controls it will be come worthless?**
 
 Money must be 'scarce'.  The scarceness of it, coupled with peoples trust in its value is what gives it value.
 
-There must be a way to keep moeny from being 'created' in a nerferious and unofficial way.
+There must be a way to keep money from being 'created' in a nefarious and unofficial way.
 
 Therefore:
 

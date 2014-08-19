@@ -1,6 +1,6 @@
 # ECR. Neutralization of Economic Rent
 
-... How can a market **(MKT)** neutralize its inefficencies.
+... How can a market **(MKT)** neutralize its inefficiencies.
 
 **Economic rent occurs when a market is inefficient.  How can they be neutralized?**
 
@@ -33,7 +33,7 @@ Therefore:
 
 ----------
 
-The neutrilization of economic rent **(ECR)** can be accomplished with the predistribution of economic rent **(PRF)**.
+The neutralization of economic rent **(ECR)** can be accomplished with the predistribution of economic rent **(PRF)**.
 
 
 

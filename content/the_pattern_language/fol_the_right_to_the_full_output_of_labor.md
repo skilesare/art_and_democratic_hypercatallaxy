@@ -1,7 +1,7 @@
 # FOL. The right to the full output of labor
 
 
-... With the power of the public ledger **(PLG)** how can a **(CTZ)** ensure he recieves the full outpu of his labor?
+... With the power of the public ledger **(PLG)** how can a **(CTZ)** ensure he receives the full output of his labor?
 
 **Capitalism has to date allowed the capitalist to take value produced by the laborer as economic rent?  Can this be neutralized?**
 
@@ -19,7 +19,7 @@ Our belief is that all value is future value.  Past value cannot be retrieved.  
 
 In addition since the capitalist owns prefs in the laborer, he will contribute future value to the laborer in hopes to increase his future income and recover his capital.  We assume the following equation:
 
-Value of Labor At the time of Labor < Sum(Future value of payment recieved for labor) + Sum(Goodwill value given to the laborer by pref owners)
+Value of Labor At the time of Labor < Sum(Future value of payment received for labor) + Sum(Goodwill value given to the laborer by pref owners)
 
 In this way, the communist and socialist thinkers were thinking TOO SMALL.  The worker does not have the right to the full value of his labor, he has the right to the full future value of his past labor which is much greater.
 

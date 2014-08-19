@@ -8,7 +8,7 @@ A new form of money should both encourage rule of law, but also keep it in check
 
 This can be accomplished by public transparency. If the government can neither take a payment or make a payment without being transparent with citizens.
 
-If possible, our money should require state accounts to be open to scrutiney by all citizens.
+If possible, our money should require state accounts to be open to scrutiny by all citizens.
 
 Therefore:
 
@@ -16,7 +16,7 @@ Therefore:
 
 ----------
 
-Public transparency can be overseen by the citizen **(CTZ)**. Public transparency can be implementd via the Public Ledger **(PLG)**
+Public transparency can be overseen by the citizen **(CTZ)**. Public transparency can be implemented via the Public Ledger **(PLG)**
 
 
 

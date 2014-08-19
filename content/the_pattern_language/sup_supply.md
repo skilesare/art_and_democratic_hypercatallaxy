@@ -4,11 +4,11 @@
 
 **Markets must understand the current supply and demand of goods and services to create a price for them.**
 
-Can we help make the supply and demand in a market more transparent?  If goods and artifical capital are registered in the public ledger we could give more transparency to the supply currently in the market.  Bids for assets could help show demand. This may be an over extention of our system to try to make this ubiquitous, but for some items it could be a good way to determine a price.
+Can we help make the supply and demand in a market more transparent?  If goods and artificial capital are registered in the public ledger we could give more transparency to the supply currently in the market.  Bids for assets could help show demand. This may be an over extension of our system to try to make this ubiquitous, but for some items it could be a good way to determine a price.
 
 We will discuss this more when we talk about a market for debt.
 
-What will be in our Public Ledger is the past supply.  This can be an important input into forecasing prices and demand.
+What will be in our Public Ledger is the past supply.  This can be an important input into forecasting prices and demand.
 
 Therefore:
 

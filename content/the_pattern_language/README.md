@@ -105,7 +105,7 @@ and yet maintain their right to
 #### PRI. Privacy and Private Dispersal
 
 
-Note: A Pattern Language in and of itself is not sufficent to accomplish the task in front of us.  One must move beyond the pattern language and create a form language and (re)generative processes that support the pattern language and can make the pattern language real in the living world. Thus we move beyond Book I to Book II Democratic Capitalism (The Form Language) and Book III Art (the generative perscription for implementing one instance of our goals).
+Note: A Pattern Language in and of itself is not sufficient to accomplish the task in front of us.  One must move beyond the pattern language and create a form language and (re)generative processes that support the pattern language and can make the pattern language real in the living world. Thus we move beyond Book I to Book II Democratic Capitalism (The Form Language) and Book III Art (the generative prescription for implementing one instance of our goals).
 
 
 ##Todos:
@@ -114,4 +114,4 @@ Fill in evidence for each pattern.
 
 Rate each pattern according the properties of wholeness.
 
-Develop generative and regenarative processes for each pattern.
+Develop generative and regenerative processes for each pattern.

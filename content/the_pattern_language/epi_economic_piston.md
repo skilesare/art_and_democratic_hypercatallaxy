@@ -6,7 +6,7 @@
 
 If there is more money than output, prices will rise.  This leads to hyperinflation.
 
-If there is more output than money then unemployeement will rise leading to a spiral of unemployment.
+If there is more output than money then unemployment will rise leading to a spiral of unemployment.
 
 An economic system is subject to many outside forces that may rapidly swing the demands of a the system one way or another. (ie. War, Technology breakthrough)
 
@@ -14,7 +14,7 @@ A good economic system will be tolerant of these swings, a great system will thr
 
 Therefore:
 
-**Whenever possible, work toward the evolution of a thriving economic system, the economic piston, that will excel in balancing money supply and demands and push the flow of money at a rate that benifits the advancments of society.**
+**Whenever possible, work toward the evolution of a thriving economic system, the economic piston, that will excel in balancing money supply and demands and push the flow of money at a rate that benefits the advancements of society.**
 
 
 ----------

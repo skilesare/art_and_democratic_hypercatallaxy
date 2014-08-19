@@ -15,7 +15,7 @@ It is often helpful to create convex systems if we go through a exercise in pred
 
 For example: Write your resignation letter the first day on the job.  When you get the big new client, what would you do if they don't pay their bills on time...or fire you.
 
-In the framework of creating a new economic system we will work through exercies at the extreams to see what things do when variables are completely elimiated and/or completely saturated.
+In the framework of creating a new economic system we will work through exercises at the extremes to see what things do when variables are completely eliminated and/or completely saturated.
 
 
 Therefore:

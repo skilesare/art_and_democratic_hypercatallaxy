@@ -20,7 +20,7 @@ Anti fragile systems have a convex lay out in respect to amount of volatility.  
 
 If a system is not anti-fragile we should use convex transformation to make it so.
 
-The current economic system has had its trouble with volitility.  If we can, we will try to move toward a system that will be much more agile when dealing with volitility.
+The current economic system has had its trouble with volatility.  If we can, we will try to move toward a system that will be much more agile when dealing with volatility.
 
 
 Therefore:

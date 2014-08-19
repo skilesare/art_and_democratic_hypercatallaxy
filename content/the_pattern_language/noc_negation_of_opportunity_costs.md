@@ -2,9 +2,9 @@
 
 ... How does a market **(MKT)** make choices between alternatives.
 
-**Markets make decisons based on the profit of the thing they are giving up. Is this the best choice?**
+**Markets make decisions based on the profit of the thing they are giving up. Is this the best choice?**
 
-I am an economic novice.  It seems to me that what I'm about to propose may violate some fundamental pricipal of economics, but I'm going to throw it out there so that others that really understand this can comment.  Be forwored. The following may be giberish.
+I am an economic novice.  It seems to me that what I'm about to propose may violate some fundamental principal of economics, but I'm going to throw it out there so that others that really understand this can comment.  Be forewarned. The following may be gibberish.
 
 Opportunity costs are: (from wikipedia)
 
@@ -14,13 +14,13 @@ If I understand this correctly, the opportunity costs are a key driver in our de
 
 All generated value is future generated value.  An investment in one thing may lead down the line to incredible profit, but for the initial investor, all may be lost.
 
-Can we negate this effect?  What if we could invest with significanly less opportunity costs given up?  Would this lead to extravagance and waste?  Would it lead to poor decisions?
+Can we negate this effect?  What if we could invest with significantly less opportunity costs given up?  Would this lead to extravagance and waste?  Would it lead to poor decisions?
 
-I'm not so sure.  If the bank were to give me 10 million dollars today, I would create some economic value with it.  Even if I squandered it on consumables, the producers of those consumables would thrive and go on to create economic elsewhere.  What if the bank could particpate in that future economic payout, even if I go bust?
+I'm not so sure.  If the bank were to give me 10 million dollars today, I would create some economic value with it.  Even if I squandered it on consumables, the producers of those consumables would thrive and go on to create economic elsewhere.  What if the bank could participate in that future economic payout, even if I go bust?
 
-To look at it another way, If Choice a Pays $10, and Choice B pays $20, our opportunity cost is $10.  What if A produces more econoic value in the resue of the capital invested?  Currently we cannot track this without significant contarctual agreement(and beyond 1 or 2 itterations it would be nearly impossible).  But what if our money did this for us?  What if it was built into the system.
+To look at it another way, If Choice a Pays $10, and Choice B pays $20, our opportunity cost is $10.  What if A produces more economic value in the reuse of the capital invested?  Currently we cannot track this without significant contractual agreement(and beyond 1 or 2 iterations it would be nearly impossible).  But what if our money did this for us?  What if it was built into the system.
 
-What if we drasticly screwed up the idea of opportunity costs.  I've used the word negation because I think it is possible that we could drasticly change the conversation from opportunity costs to future economic potential.
+What if we drastically screwed up the idea of opportunity costs.  I've used the word negation because I think it is possible that we could drastically change the conversation from opportunity costs to future economic potential.
 
 Our money should do this.
 

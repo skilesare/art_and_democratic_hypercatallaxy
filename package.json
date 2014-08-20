@@ -1,0 +1,11 @@
+{
+  "name": "ArtAndDemocraticHyperCapitalism",
+  "version": "0.0.0",
+  "description": "Seeking a new form of money.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin Andrew Fatheree",
+  "license": "ISC"
+}

@@ -3,6 +3,8 @@
 * [Introduction](README.md)
 * [Contents](contents/README.md)
 * [About the Author](about_the_author/README.md)
+   * [On Influences](about_the_author/on_influences.md)
+   * [On Religion and God](about_the_author/on_religion_and_god.md)
 * [Book I - The Pattern Language](the_pattern_language/README.md)
    * [Global Level](the_pattern_language/global_level.md)
        * [EPI. Economic Piston](the_pattern_language/epi_economic_piston.md)

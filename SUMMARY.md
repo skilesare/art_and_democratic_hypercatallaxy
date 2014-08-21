@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Contents](contents/README.md)
 * [About the Author](about_the_author/README.md)
    * [On Influences](about_the_author/on_influences.md)
    * [On Religion and God](about_the_author/on_religion_and_god.md)
@@ -110,7 +109,8 @@
            * [What happens when someone choses not use their money?](hyper_capitalism/what_happens_when_someone_choses_not_use_their_money)
            * [What happens when a capitalist choses to live off their economic rent?](hyper_capitalism/what_happens_when_a_capitalist_choses_to_live_off_their_economic_rent)
 * [Book III - Art](book_iii_-_art/README.md)
-   * [Authority](book_iii_-_art/authority.md)
-   * [Transparency](book_iii_-_art/transparency.md)
-   * [Art](book_iii_-_art/art.md)
+   * [Art - As Desired](book_iii_-_art/art_-_as_desire.md)
+   * [Assumptions](book_iii_-_art/assumptions.md)
+   * [Seed To Vision](book_iii_-_art/seed.md)
+   * [What is missing?](book_iii_-_art/what_is_missing.md)
 

@@ -8,6 +8,7 @@ Where will we end up?  With Art or ArtCoin as a new form of money.  This kind of
 2. It demands that a form of artifical capital(aka prefs) be exchanged along with goods and services in exchange for money.  The Demurrage from money is paid out to owners of this capital.  Since no transaction can be performed without the transfer of capital we arrive at the name 'hypercapitalism'.
 3. It allows tax payers the right to veto the use of state run accounts.  This is a form of ongoing voting that makes the people much more powerful in their self government and why this system is at its core 'democratic'
 
+
 Thus Democratic Hypercapitalism.  ArtCoin is a proposed technical implementation.  There maybe others that are better but I feel like I should not present a problem with out some sort of solution proposed.
 
 Why Art?  We propose that people should be 'compensated for the full out put of their labor'.  Their labor is their Art.  A unit of production echos into the future indefinantely and each laborer should have some right to the value produced from their own labor.

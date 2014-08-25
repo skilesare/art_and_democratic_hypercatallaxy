@@ -12,7 +12,7 @@ We can say that should not be one global state.
 
 We can also say that it would be inconvenient for the laws of the land to change every time you crossed a street so a state should not be the size of a ciy block.
 
-Somewhere in between is the answer and if take the idea of wholeness, it is likely that the answer of the size of a state is dependent on the states around it, and the geography, and the make up of the organizations of its citizens.
+Somewhere in between is the answer and if one take the idea of wholeness, it is likely that the answer of the size of a state is dependent on the states around it, and the geography, and the make up of the organizations of its citizens.
 
 So if size is variable, what is constant?  The state is helpful for the organizing of a people into a coherent group so that they can govern themselves.  By creating a state with a constitution that protects the rights of citizens, order and human dignity can both be maintained.
 

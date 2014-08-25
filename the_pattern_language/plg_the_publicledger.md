@@ -1,6 +1,6 @@
 # PLG. Public Ledger
 
-... How can a capital **(CAP)**, both artificial **(ACP)** and real **(RCP)** be tracked. How can we hold accountable those that enforce rule of law **(LAW)** and support public transparency **(TRN)**. How can we track the movement of Supply, Demand and Price **(SDP)** in a Market **(MKT)**? How can we support, enforce and celebrate the paying of taxes **(TAX)**.  How can we strengthen the predistribution of economic rents **(PRF)** and money's resistance to counterfeiting **(RTC)**.
+... How can capital **(CAP)**, both artificial **(ACP)** and real **(RCP)** be tracked. How can we hold accountable those that enforce rule of law **(LAW)** and support public transparency **(TRN)**. How can we track the movement of Supply, Demand and Price **(SDP)** in a Market **(MKT)**? How can we support, enforce and celebrate the paying of taxes **(TAX)**.  How can we strengthen the predistribution of economic rents **(PRF)** and money's resistance to counterfeiting **(RTC)**.
 
 **One of the critical weaknesses of our current cash is its ability to move outside of regulated channels via paper money.  It is used to support black market activities and to avoid the paying of taxes.**
 
@@ -18,7 +18,7 @@ Because private transactions will take extra time to anonymity, we may not be ab
 
 Certain account types may be restricted from using private transactions.  For example, corporations and/or the state should not be allowed to use such types of transactions.  Privacy should be a right reserved for citizen type accounts only.
 
-How can we secure the public ledger?  Using cyptocurrency style security we can secure block of transactions, and distribute the keys to the public.  By doing so, a nefarious entity will not be able to 'rollback' transactions or double spend. When, via the rule of law, a change to the ledger needs to be made, it must be done via a correction entry and will be subject to democratic veto.
+How can we secure the public ledger?  Using cyptocurrency style security we can secure blocks of transactions, and distribute the keys to the public.  By doing so, a nefarious entity will not be able to 'rollback' transactions or double spend. When, via the rule of law, a change to the ledger needs to be made, it must be done via a correction entry and will be subject to democratic veto.
 
 Therefore:
 

@@ -1,7 +1,7 @@
 # ACP. Artificial Capital
 
 
-... what kind of Capital **(CAP)** is tied to real things?
+... what kind of Capital **(CAP)** is tied to artificial things?
 
 
 **Not all capital is 'real' in that it can be touched in the physical world**

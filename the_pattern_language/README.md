@@ -1,111 +1,124 @@
-# The Pattern Language
-
+#Contents
 
 We begin with that part of the language which defines a thriving global economic system of exchange.  These patterns can never be designed or built in one fell swoop--but patient piecemeal growth, designed in such a way that every individual act is always helping to create or generate these larger global patterns, will slowly, and surely , over the years, make a global economic system of exchange that has these global patterns in it.
 
-These Patterns exist at various levels of scale and can be generally grouped at the Global Scale, the scale of the State, the scale of the Market, the scale of non-personal legal entities, and the scale of the citizen.
+These Patterns exist at various levels of scale and can be generally grouped at the Global Scale, the scale of the State, the scale of the Market, the scale of non-personal legal entities, the scale of the citizen, and the technology scale.
 
 Ultimately a thriving global economic system of exchange is an economic piston that drives the global growth of wealth, capital, technology, and culture in a controlled and progressive  manner.
 
-#### EPI. Economic Piston
+EPI. Economic Piston
 
+at the global scale, the main tool of this economic piston is...
 
-An economic system of exchange can be made more Anti-fragile by using:
+MNY. Money
 
-#### CVX. Converse Transformation (2)
+we can use work toward as system of exchange that satisfies the following patterns...
 
+MEX. Medium of Exchange
+MOV. Measure of Value
+DIV. Divisibility
+DPY. Deferred Payment
+LIQ. Liquid
+RTC. Resistant to Counterfeiting
 
+money and production can be used to procure...
 
-#### BIM. Bi Modal (3)
+CAP. Capital
 
-#### PEL. Predictive Elimination (4)
+that can be either
 
-at the global scale, work toward as system of exchange that satisfies the following patterns...
+RCP. Real Capital or
+ACP. Artificial Capital
 
-#### MEX. Medium of Exchange
-#### MOV. Measure of Value
-#### DIV. Divisibility
-#### DPY. Deferred Payment
-#### POR. Portability
-#### LIQ. Liquid
-#### RTC. Resistant to Counterfeiting
+Money and capital can be regulated via
 
-These items are most commonly embodied in the pattern...
-
-#### MNY. Money
-
-which can be regulated via
-
-#### DMR. Controlled Inflation or Demurrage
-
+DEM. Controlled Inflation or Demurrage
 
 all of which must support and be congruent with at the State level...
 
-#### STA. The State
-#### LAW. Rule of law
+STA. The State
+LAW. Rule of law
 
 which together can implement...
 
-#### LTN. Legal Tender
-#### ISS. Issuance
-
-and are empowered by...
-
-#### PEO. A representative Democracy and/or The People
+LTN. Legal Tender
+ISS. Issuance
 
 who can be assured of proper operation by...
 
-#### TRN. Public Transparency
+TRN. Public Transparency
 
-and maintain economic equality through...
+and maintain public funding and economic equality through...
 
-#### TAX. Tax
+TAX. Tax
 
-so that the state and groups of states can establish a set of Markets that have display fluid properties of
+so that the state and groups of states can establish a set of
 
-#### SUP. Supply
-#### DEM. Demand
+MKT. Markets
+
+that have display fluid properties of
+
+SUP. Supply, Demand, and Price
 
 and yet still promote...
 
-#### INT. Interdependence and/or nth order decision making
-
-
-#### CAP. Capital Investment
+INT. Interdependence and/or nth order decision making
 
 and neutralize or negate
 
-#### ECR. Neutralization of Economic Rent
-#### NOC. Negation of opportunity costs
+ECR. Neutralization of Economic Rent
+NOC. Negation of opportunity costs
 
 and make more efficient the...
 
-#### PDS. Predistribution of super profits
-#### FSP. Diminishing value of future superprofits
-#### INS. Instant Transfer of Funds
+PRF. Predistribution of economic rents
+PFP. Principal of First Pref Payment
+DER. Diminishing value of future economic rents
+
+and make possible...
+
+INS. Instant Transfer
+PLG. Public Ledger
+
+So that legal entities can be formed to pursue commerce as ....
+
+LGE. Legal Entities
 
 so that legal entities can be restricted by and unto...
 
-#### KIL. Corporate Death
-#### LLR. Limited Risk instead of Limited Liability
-#### LBR. Enrich Labor
+KIL. Corporate Death
+LLR. Limited Risk instead of Limited Liability
+LBR. Enrich Labor
 
-so that the citizen is maintained as the predominate actor in the state and economy via...
+so that the citizen is maintained as the predominate actor in the state and economy...
 
-#### FOL. The right to the full output of labor
-#### BNK. Everyone is a bank
+CTZ. The Citizen
+
+via...
+
+SCZ. Selective citizenship
+FOL. The right to the full output of labor
+BNK. Everyone is a bank
 
 and are protected via...
-
-#### SOS. Social Security
-#### STH. Statutory Theft
+STH. Statutory Theft
 
 and yet maintain their right to
 
-#### PRI. Privacy and Private Dispersal
+PRI. Privacy and Private Dispersal
+DIG. Human Dignity
 
+The Dignity which is supported by...
 
-Note: A Pattern Language in and of itself is not sufficient to accomplish the task in front of us.  One must move beyond the pattern language and create a form language and (re)generative processes that support the pattern language and can make the pattern language real in the living world. Thus we move beyond Book I to Book II Democratic Capitalism (The Form Language) and Book III Art (the generative prescription for implementing one instance of our goals).
+EDU. Education
+ELD. Eldercare
+WEL. Welfare
+HOM. The Home
+LEG. Legacy
+
+And the power of democratic citizen government is protected by...
+
+VTO. Democratic Veto
 
 
 ##Todos:

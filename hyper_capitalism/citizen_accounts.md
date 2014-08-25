@@ -1,4 +1,4 @@
-# Citizen Accounts
+###  Citizen Accounts
 
 Citizen accounts are issued to humans that are part of a market and can prove their membership via rule of law.
 

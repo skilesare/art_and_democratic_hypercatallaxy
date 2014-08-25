@@ -20,7 +20,7 @@ Just because these items are private does not mean that they are not subject to 
 
 Therefore:
 
-**Implement a privacy pool that allows citizens to make payments and receive payment(but only from other citizens when receiving) that are 'anonymous**
+**Implement a privacy pool that allows citizens to make payments and receive payment(but only from other citizens when receiving) that are 'anonymous.'**
 
 ----------
 

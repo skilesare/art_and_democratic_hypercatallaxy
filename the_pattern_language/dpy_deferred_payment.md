@@ -5,9 +5,9 @@
 
 **Often one wants to procure goods now with a promise to pay later.  Often called a loan.  How can currency accomplish this?**
 
-Money is an efficient way to measure value.  Since unis of money are fungible, when one person offers X units for a good and another offers 2X, the good is measurably more valuable to the second.  This may seem a silly example, but 2 cows are not necessarily more valuable than 1 cow.  The 2 may be unhealthy or a different breed.
+Money is an efficient way to measure value.
 
-As much as it can, a new form of money should maintain this property.  1 unit should always be half as valuable as 2 units of the same currency.
+If a farmer wants to procure seeds for planting, he may pledge the proceeds of the sale of the crop as payment.  How can we measure this value? Generally we enumerate the value of the seeds and expect an equally enumerated value to be paid later.
 
 Therefore:
 

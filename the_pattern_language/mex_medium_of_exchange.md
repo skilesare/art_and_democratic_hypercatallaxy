@@ -1,7 +1,5 @@
 # MEX. Medium of Exchange
 
-![COMimage](images/bartering.jpg)
-
 ... how does one lubricate the exchange of goods with Money **(MNY)**?
 
 
@@ -12,9 +10,9 @@ Money gives us an easy medium of exchange.  A person can exchange a good for mon
 
 In personal transactions, fiat money can trade hands for goods.  This is an instant transaction.
 
-Digital transactions are not so simple today, although the reason is based on entrenced corporations and obstructionist lobbying.  Funds must be transferred from one bank account to another often with a charge to the cash receiving party.
+Digital transactions are not so simple today, although the reason is based on entrenched corporations and obstructionist lobbying.  Funds must be transferred from one bank account to another often with a charge to the cash receiving party.
 
-As much as it can be, a new form of money should eliminate this fee an transfer money from one account to the other as near to instantly as possible without sacrificing security.
+As much as it can be, a new form of money should eliminate this fee and transfer money from one account to the other as near to instantly as possible without sacrificing security.
 
 Therefore:
 

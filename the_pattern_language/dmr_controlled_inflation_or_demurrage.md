@@ -2,7 +2,7 @@
 
 
 
-... how can one ensure the value of money **(MNY)** does become volatile and that it maintains the measure of value **(MOV)**? How can the liquidity **(LIQ)** of money be encouraged?
+... how can one ensure the value of money **(MNY)** doesn't become volatile and that it maintains the measure of value **(MOV)**? How can the liquidity **(LIQ)** of money be encouraged?
 
 **If money is a perfect store of value, why would anyone part with it? If too many people have too much money and demand skyrockets, how can inflation be prevented? If salaries crash and no one has any cash, how can prices be kept from deflating?**
 

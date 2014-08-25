@@ -1,6 +1,5 @@
 # MNY. Money
 
-![COMimage](images/moneys.jpg)
 
 ... how does one make account in an Economic Piston **(EPI)**?
 
@@ -10,7 +9,7 @@
 
 Modern economies have moved on from barter of goods and/or commodity money into a barter for fiat money.
 
-This idea of fiat money has been further augmented by a commercial banking system that has been empowered to keep money 'on the books' so that money is currently make up of the fiat money in circulation plus the values in the book ledgers of licensed banks.
+This idea of fiat money has been further augmented by a commercial banking system that has been empowered to keep money 'on the books' so that money is currently made up of the fiat money in circulation plus the values in the book ledgers of licensed banks.
 
 There are many features of modern money that have made modern life easier.  Are there down sides?
 

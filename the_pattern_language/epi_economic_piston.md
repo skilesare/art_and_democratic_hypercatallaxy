@@ -1,8 +1,6 @@
 # EPI. Economic Piston
 
-![THSimage](images/hvac_system.jpg)
-
-**An Economic system cannot function unless it is driven by a piston that maintains the velocity of money so that inflation is controlled and yet there is all ways enough money to buy the outputs of production.**
+**An Economic system cannot function unless it is driven by a piston that maintains the velocity of money so that inflation is controlled and yet there is always enough money to buy the outputs of production.**
 
 If there is more money than output, prices will rise.  This leads to hyperinflation.
 

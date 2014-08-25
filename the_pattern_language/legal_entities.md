@@ -26,7 +26,7 @@ The forming of corporations generally results in the production of artificial ca
 
 It could be possible to add a layer that allows a group of citizen accounts to submit cash to an account in exchange for common-voting stock in the account, but this system may be outside the scope of our project.
 
-One key distinction is that although legal entity accounts will look like regular accounts, they will be different.  We would like to propose that Legal Entity accounts not have the right to private payment and dispersal.  We may want to support the exchange of funds that are undiscovered for a time period but then unlock in case there are sensitive issues at hand, but those should be determined by rule of law.  Legal Entities that are not citizens should not be allowed to hide activity from the general public.  They are give protected rights and should be held accountable.
+One key distinction is that although legal entity accounts will look like regular accounts, they will be different.  We would like to propose that Legal Entity accounts not have the right to private payment and dispersal.  We may want to support the exchange of funds that are undiscovered for a time period but then unlock in case there are sensitive issues at hand, but those should be determined by rule of law.  Legal Entities are not citizens should not be allowed to hide activity from the general public.  They are given protected rights and should be held accountable.
 
 Therefore:
 

@@ -22,13 +22,13 @@ The first is probably the easiest to implement and straightforward for accountin
 
 What about the business owners that put up the initial capital.  Doesn't this punish them and take value away from those taking the risk. It is our opinion that this should be the payment that is given for the privilege of limited liability and limited risk that they enjoy from the system.  The buyers of their goods have also taken on a portion of risk in entrusting their cash to the company.
 
-We believe that it is likely that many schemes will be figured out for the orderly transfer of assets from an old corporate structure to a new structure.  We do not recommend annihilation, only the orderly transfer of power from old to young that we see in nature that allows for the general evolution of stronger and better fit to the environment corporations.
+We believe that it is likely that many schemes will be figured out for the orderly transfer of assets from an old corporate structure to a new structure.  We do not recommend annihilation, only the orderly transfer of power from old to young that we see in nature that allows for the general evolution of stronger and better fit to the environment.
 
 In addition, stockholders can hold on to stock and issue distributions from pref payments received from the earnings of labor at new companies.
 
 Therefore:
 
-**Allow for and plan for the death of each corporation. Provide a long life for the corporation but not unnaturally long..**
+**Allow for and plan for the death of each corporation. Provide a long life for the corporation but not unnaturally long.**
 
 ----------
 

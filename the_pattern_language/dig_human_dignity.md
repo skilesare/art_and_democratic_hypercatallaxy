@@ -21,7 +21,7 @@ We propose tracking the provision and rights to these items in the public ledger
 
 Therefore:
 
-**The state should provide welfare in the form of cash so that the disadvantaged can begin to build up their own set of prefs.**
+**The state should institute frameworks and services that preserve Human Dignity.**
 
 ----------
 

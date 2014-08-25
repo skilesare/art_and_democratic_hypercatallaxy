@@ -1,6 +1,6 @@
 # SDP. Supply, Demand, Price
 
-... How does a market **(MKT)** track what is available in a market and what to price goods and services.
+... How does a market **(MKT)** track what is available in a market and what the proper price is for goods and services.
 
 **Markets must understand the current supply and demand of goods and services to create a price for them.**
 

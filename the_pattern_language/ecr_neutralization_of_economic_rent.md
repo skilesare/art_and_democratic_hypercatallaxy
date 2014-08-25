@@ -25,7 +25,7 @@ We will contend there is a better way. Who is harmed in the case of an economic 
 
 Our proposal is not 'refund' the economic rent, or to tax the economic rent, but to put the payer of the economic rent in a position to participate in any future gain made from the economic rent.
 
-Our money should allow for this*.
+Our money should allow for this.
 
 Therefore:
 
@@ -33,7 +33,7 @@ Therefore:
 
 ----------
 
-The neutralization of economic rent **(ECR)** can be accomplished with the predistribution of economic rent **(PRF)**.
+The neutralization of economic rent can be accomplished with the predistribution of economic rent **(PRF)**.
 
 
 

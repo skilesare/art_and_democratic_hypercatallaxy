@@ -17,9 +17,9 @@ What of the laborer? Has he lost out on value?  Yes.  All he has is the cash he 
 
 Our belief is that all value is future value.  Past value cannot be retrieved.  Once the labor is spent, it is gone.  You cannot renegotiate the value of the past labor. What you can do is track and capture the value that the cash paid to the laborer generates, and return it to him over time.
 
-In addition since the capitalist owns prefs in the laborer, he will contribute future value to the laborer in hopes to increase his future income and recover his capital.  We assume the following equation:
+In addition since the capitalist owns prefs in the laborer, he will contribute future value to the laborer in hopes to increase his future income and recover his capital.  We assume the following inequality:
 
-Value of Labor At the time of Labor < Sum(Future value of payment received for labor) + Sum(Goodwill value given to the laborer by pref owners)
+Value of Labor At the time of Labor < Sum(Future value of payment received from prefs) + Sum(Goodwill value given to the laborer by pref owners)
 
 In this way, the communist and socialist thinkers were thinking TOO SMALL.  The worker does not have the right to the full value of his labor, he has the right to the full future value of his past labor which is much greater.
 

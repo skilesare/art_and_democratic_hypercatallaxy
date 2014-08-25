@@ -1,5 +1,5 @@
 
-# Legal Entity Accounts
+###  Legal Entity Accounts
 
 Legal Entity accounts are issued to corporations, partnerships, and other forms of organizations that are not 'citizens'.
 

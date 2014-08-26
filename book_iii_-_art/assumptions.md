@@ -8,7 +8,7 @@ I assume that this system will be very disruptive to the powers that be.  We ant
 
 I assume the state will not run with this from the get go.  We will provide for the eventual nationalization of the system.  This is not something to be feared and should be planned for from the beginning.  This system could lead to a nation-stateless society, but if history is any indication we are not quite ready for that.
 
-I assume that merchants would be skeptical as well.  Why would they want a money that 'dies' unspent?  We will have to over come these fears by encouraging the populace to demand the acceptance of Art.
+I assume that merchants would be skeptical as well.  Why would they want a money that 'dies' unspent?  We will have to overcome these fears by encouraging the populace to demand the acceptance of Art.
 
 I assume the banks will fight this tooth and nail.  It will be for the people to demand the reduction of the financial industry.  Ultimately we don't expect this to be a hard sell, but we do expect the industry to fight with all their power to keep the status quo.
 

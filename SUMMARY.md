@@ -109,4 +109,6 @@
    * [Assumptions](book_iii_-_art/assumptions.md)
    * [Seed To Vision](book_iii_-_art/seed.md)
    * [What is missing?](book_iii_-_art/what_is_missing.md)
+* [Creative Commons Liscense](creative_commons_liscense/README.md)
+   * [In English](creative_commons_liscense/in_english.md)
 

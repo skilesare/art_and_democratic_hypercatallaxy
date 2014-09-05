@@ -1,5 +1,15 @@
 # Art and Democratic Hypercapitalism
 
+---
+
+This book is available from gitbook.io in pdf, epub, and kindle formats at [https://www.gitbook.io/book/skilesare/art-and-democratic-hypercapitalism](https://www.gitbook.io/book/skilesare/art-and-democratic-hypercapitalism "Buy Digital Version on Gitbook.io").  It costs $15.  It is not a complete work and purchasing an official version there will allow you to receive updates and revisions when they are published. It will also help me continue exploring this topic and adding to the book.
+
+We will be adding a link in the near future to purchase a physical version.
+
+This book is covered under the creative commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license that is included toward the end of the book.
+
+---
+
 Why do we need a new form of money?  It is my belief that money is unnatural. It does not die and there for can lead to unfair advantage.  With our new form of money we seek to naturalize money and fix a lot of issues along the way.
 
 Where will we end up?  With Art as a new form of money.  This kind of money is different for 3 core reasons:

@@ -8,6 +8,10 @@ We will be adding a link in the near future to purchase a physical version.
 
 This book is covered under the creative commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license that is included toward the end of the book.
 
+If you would like to contribute to this work please see [https://github.com/skilesare/art_and_democratic_hypercapitalism](https://github.com/skilesare/art_and_democratic_hypercapitalism "github repo").
+
+Discuss and report typos at [https://github.com/skilesare/art_and_democratic_hypercapitalism/issues](https://github.com/skilesare/art_and_democratic_hypercapitalism/issues "Discuss and Report Issues")
+
 ---
 
 Why do we need a new form of money?  It is my belief that money is unnatural. It does not die and there for can lead to unfair advantage.  With our new form of money we seek to naturalize money and fix a lot of issues along the way.

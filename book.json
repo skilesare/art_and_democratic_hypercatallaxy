@@ -10,7 +10,7 @@
 
 
     // Plugins list, can contain "-name" for removing default plugins
-    "plugins": [],
+    "plugins": ["autocover"],
 
     // Global configuration for plugins
     "pluginsConfig": {
@@ -18,6 +18,22 @@
             "theme": "sepia", "night" or "white",
             "family": "serif" or "sans",
             "size": 1 to 4
+        },
+        "autocover": {
+            "title": "Art and Democratic Hypercapitalism",
+            "author": "Austin Fatheree",
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": '#FFF'
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": '#09F'
+            }
         }
     },
 

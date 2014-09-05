@@ -2,19 +2,21 @@
 
 ---
 
+This book is not *finished*. It has barely been proofread.  Reader be warned.
+
 This book is available from gitbook.io in pdf, epub, and kindle formats at [https://www.gitbook.io/book/skilesare/art-and-democratic-hypercapitalism](https://www.gitbook.io/book/skilesare/art-and-democratic-hypercapitalism "Buy Digital Version on Gitbook.io").  It costs $15.  It is not a complete work and purchasing an official version there will allow you to receive updates and revisions when they are published. It will also help me continue exploring this topic and adding to the book.
 
 We will be adding a link in the near future to purchase a physical version.
 
 This book is covered under the creative commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license that is included toward the end of the book.
 
-If you would like to contribute to this work please see [https://github.com/skilesare/art_and_democratic_hypercapitalism](https://github.com/skilesare/art_and_democratic_hypercapitalism "github repo").
+If you would like to contribute to this work please see [https://github.com/skilesare/art_and_democratic_hypercapitalism](https://github.com/skilesare/art_and_democratic_hypercapitalism "github repo").  We welcome pull requests.
 
 Discuss and report typos at [https://github.com/skilesare/art_and_democratic_hypercapitalism/issues](https://github.com/skilesare/art_and_democratic_hypercapitalism/issues "Discuss and Report Issues")
 
 ---
 
-Why do we need a new form of money?  It is my belief that money is unnatural. It does not die and there for can lead to unfair advantage.  With our new form of money we seek to naturalize money and fix a lot of issues along the way.
+Why do we need a new form of money?  It is my belief that money is unnatural. It does not die and therefore can lead to unfair advantage.  With our new form of money we seek to naturalize money and fix a lot of issues along the way.
 
 Where will we end up?  With Art as a new form of money.  This kind of money is different for 3 core reasons:
 
@@ -27,7 +29,7 @@ Thus Democratic Hypercapitalism.  Art is a proposed technical implementation.  T
 
 Why Art?  We propose that people should be 'compensated for the full out put of their labor'.  Their labor is their Art.  A unit of production echos into the future indefinitely and each laborer should have some right to the value produced from their own labor.
 
-This idea of 'full output of labor' was originally a socialist and communist ideal.  I have taken the concept and swung it completely the other way. Instead of crucifying the capitalist on this cross I've used it to empower all laborers as capitalists.
+This idea of 'full output of labor' was originally a socialist and communist ideal.  I in no way want to be associated with those movements.  In fact, I have attempted to swing this concept completely on its head. In a sense, my conclusion is that the communists and socialists missed the fact that laborers were not obtaining their full output because society wast capitalistic enough.  At the same time, the hypercapitalism I propose is a much more egalitarian system than our current form of capitalism.
 
 In book I take a look at the pattern language considered for this document.
 
@@ -47,5 +49,12 @@ In book III we discuss a theoretical coin called 'art' which seeks to
 * ensure social security and a thriving economy.
 
 We seek to form a generative language to lead to the adoption of art as the dominant form of money.
+
+It is an over ambitious task to try to tackle all of those things and I would hesitate if the following things were not true:
+
+1. The solution is simple.
+2. It would not be possible to do without digital money.
+
+I know I'm biting off way more than I can chew with this and that is why I'm putting out at this point and hoping to get feedback and help in seeing if some of these ideas are practical and can actually be implemented.
 
 

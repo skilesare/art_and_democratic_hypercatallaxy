@@ -1,8 +1,12 @@
 # Art and Democratic Hypercapitalism
 
+**By Austin Fatheree**
+
 ---
 
 This book is not *finished*. It has barely been proofread.  Reader be warned.
+
+**How To Read this book:**  I would encourage the reader to read this in stages.  **Book I** will introduce the reader to our end goal.  If the reader wants to explore Further, **Book II** really has a lot of the nuts and bolts of how these things work together to form a thriving economy.  **Book III** is a exploration of a pattern language of an economy from the top level of the globe down to the bottom level of how an economy affects a citizen.  I hope the reader is eventually engaged enough to explore Book III but it is not required to understand my concept.
 
 This book is available from gitbook.io in pdf, epub, and kindle formats at [https://www.gitbook.io/book/skilesare/art-and-democratic-hypercapitalism](https://www.gitbook.io/book/skilesare/art-and-democratic-hypercapitalism "Buy Digital Version on Gitbook.io").  It costs $15.  It is not a complete work and purchasing an official version there will allow you to receive updates and revisions when they are published. It will also help me continue exploring this topic and adding to the book.
 
@@ -29,13 +33,9 @@ Thus Democratic Hypercapitalism.  Art is a proposed technical implementation.  T
 
 Why Art?  We propose that people should be 'compensated for the full out put of their labor'.  Their labor is their Art.  A unit of production echos into the future indefinitely and each laborer should have some right to the value produced from their own labor.
 
-This idea of 'full output of labor' was originally a socialist and communist ideal.  I in no way want to be associated with those movements.  In fact, I have attempted to swing this concept completely on its head. In a sense, my conclusion is that the communists and socialists missed the fact that laborers were not obtaining their full output because society wast capitalistic enough.  At the same time, the hypercapitalism I propose is a much more egalitarian system than our current form of capitalism.
+This idea of 'full output of labor' was originally a socialist and communist ideal.  I in no way want to be associated with those movements.  In fact, I have attempted to swing this concept completely on its head. In a sense, my conclusion is that the communists and socialists missed the fact that laborers were not obtaining their full output because society was not capitalistic enough.  At the same time, the hypercapitalism I propose is a much more egalitarian system than our current form of capitalism.
 
-In book I take a look at the pattern language considered for this document.
-
-In book II I take a look at democratic hypercapitalism and analyze how it corresponds to our chosen pattern language.  Here we build a form language of items to use in the construction of our new form of money.
-
-In book III we discuss a theoretical coin called 'art' which seeks to
+In book I we discuss a theoretical coin called 'art' which seeks to
 
 * institutionalize hypercapitalism
 * bring about the simplification of taxes
@@ -54,6 +54,13 @@ It is an over ambitious task to try to tackle all of those things and I would he
 
 1. The solution is simple.
 2. It would not be possible to do without digital money.
+
+
+In book II I take a look at democratic hypercapitalism and build a form language of items to use in the construction of our new form of money.  Book II is for those that want to take a deeper look at the concept of democratic hypercapitalism and the forms that make the engine run.
+
+In book III take a look at the pattern language considered for this document.  This book is specifically targeted to those that are fans of the pattern language and the work of Christoper Alexander.  This book is not required reading for those wanting to understand the basics of democratic hypercapitalism but is a key component that was developed before we built the form and generative language.
+
+
 
 I know I'm biting off way more than I can chew with this and that is why I'm putting out at this point and hoping to get feedback and help in seeing if some of these ideas are practical and can actually be implemented.
 

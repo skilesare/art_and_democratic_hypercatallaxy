@@ -2,7 +2,7 @@
 
 The following influences are in no particular order.  I've included them because I think it is important to understand the lense that people see thorough when they are tring to think about an issue.
 
-This should also serve as a bibliography. This is not an academica work and there are likely large sections I've just copied and pasted from elsewhere. If find some text that I don't reference correctly, please submit a pull request.  I have an alergic reaction to the MLA.
+This should also serve as a bibliography. This is not an academic work and there are likely large sections I've just copied and pasted from elsewhere. If you find some text that I don't reference correctly, please submit a pull request.  I have an allergic reaction to the MLA.
 
 **Christopher Alexander**
 
@@ -20,7 +20,7 @@ This should also serve as a bibliography. This is not an academica work and ther
 
 <a href="http://www.amazon.com/gp/product/0199898073/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0199898073&linkCode=as2&tag=everybase-20&linkId=6X654ME6PLF3UVS4">The Battle for the Life and Beauty of the Earth: A Struggle Between Two World-Systems (Center for Environmental Structure)</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=everybase-20&l=as2&o=1&a=0199898073" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-I first read Alexander's Notes on Synthesis of Form in the late 2000s.  I didn't really know what I was reading at the time.  I rediscovered him later when trying to get to root of and better understand 'Patterns' in computer program with some prodding from a discussion of the architecture of Disney World.  His stuff made way more sense to me than anything that I had seen in computer science.  His 'difference' was that he looked at multiple levels of scale.  The patterns fit together way that made sense.
+I first read Alexander's Notes on Synthesis of Form in the late 2000s.  I didn't really know what I was reading at the time.  I rediscovered him later when trying to get to root of and better understand 'Patterns' in computer program with some prodding from a discussion of the architecture of Disney World.  His stuff made way more sense to me than anything that I had seen in computer science.  His 'difference' was that he looked at multiple levels of scale.  The patterns fit together in way that made sense and had a natural order to them.
 
 His epic "Nature of Order" fundamentally changed the way that I look at the world.  It balanced the ideas I had about wanting to make things beautiful and worth living for with the order of systems that I was drawn to.  I cannot over emphasize the importance of these works and encourage everyone to read them.  They are about architecture but also much, much more than that.  They are about a life worth living and making sense of the mess that we have to approach every day.
 

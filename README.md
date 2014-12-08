@@ -16,9 +16,9 @@ This book is covered under the creative commons Attribution-NonCommercial-NoDeri
 
 If you would like to contribute to this work please see [https://github.com/skilesare/art_and_democratic_hypercapitalism](https://github.com/skilesare/art_and_democratic_hypercapitalism "github repo").  We welcome pull requests.
 
-Report typos at [https://github.com/skilesare/art_and_democratic_hypercapitalism/issues](https://github.com/skilesare/art_and_democratic_hypercapitalism/issues "Discuss and Report Issues")
+Report typos at [https://github.com/skilesare/art_and_democratic_hypercapitalism/issues](https://github.com/skilesare/art_and_democratic_hypercapitalism/issues "Report Issues")
 
-Join the at [http://hypercapital.info](http://hypercapital.info "Discuss and Report Issues")
+Join the discussion at [http://hypercapital.info](http://hypercapital.info "Discuss")
 
 ---
 

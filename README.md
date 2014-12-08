@@ -33,7 +33,7 @@ Where will we end up?  With Art as a new form of money.  This kind of money is d
 
 Thus Democratic Hypercapitalism.  Art is a proposed technical implementation.  There maybe others that are better but I feel like I should not present a problem with out some sort of solution proposed.
 
-Why Art?  We propose that people should be 'compensated for the full out put of their labor'.  Their labor is their Art.  A unit of production echos into the future indefinitely and each laborer should have some right to the value produced from their own labor.
+Why Art?  We propose that people should be 'compensated for the full output of their labor'.  Their labor is their Art.  The payment for a unit of production echos into the future indefinitely and each laborer should have some right to the value produced from their own labor.
 
 This idea of 'full output of labor' was originally a socialist and communist ideal.  I in no way want to be associated with those movements.  In fact, I have attempted to swing this concept completely on its head. In a sense, my conclusion is that the communists and socialists missed the fact that laborers were not obtaining their full output because society was not capitalistic enough.  At the same time, the hypercapitalism I propose is a much more egalitarian system than our current form of capitalism.
 

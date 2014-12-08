@@ -2,7 +2,7 @@
 
 My name is Austin Andrew Fatheree. I was born in Houston, TX in 1977.  I have had a privileged life.  I have had two parents who loved me and were able to make a good bit of money and inherit some more. We were far from 'ultrarich' but we had enough means to borrow enough money for me to go to private school most of my years.  There was a rough period around the savings and loan crisis, but over all I realize that I've had a more privileged life than most who will read this book.
 
-I went to The University of Texas. I started in Electrical Engineering and even qualified to for the honors engineering program. After two years of doing electrical engineering when I wanted to be doing computer engineering(and really not feeling like I was excelling) and helping my roommate with his MIS homework, I transferred to the Management Information Systems degree and graduated with a business degree.  This is instructive to show:
+I went to The University of Texas. I started in Electrical Engineering and even qualified to for the honors engineering program. After two years of doing electrical engineering when I wanted to be doing computer engineering(and really not feeling like I was excelling) and helping my roommate with his MIS homework, I transferred to the Management Information Systems program and graduated with a business degree.  This is instructive to show:
 
 1. I'm kind of smart
 2. But not smart enough
@@ -13,13 +13,13 @@ I've worked for small consulting companies (Plan III), a small business (Courtho
 
 I've tried to 'start up' an education web product, a fake football league, a social networking organization platform, a competition api, a travel tool for Walt Disney World, and a few other projects along the way.  They have mostly been complete failures.  Along the way I've realized that I'm never going to pull something off all by myself.  So I'm publishing this because I want to fix money and I need help doing so.
 
-I'm an 'Alexandrian Presbyterian by religion.  I'll talk more about what that is in a later section.  I think I made it up.
+I'm an 'Alexandrian Presbyterian.'  I'll talk more about what that is in a later section.  I think I made it up.
 
-I'm married and have two kiddos and one on the way.  That is to say I've had to fit the development of these ideas in among a lot of other things.  I'd love to make this my life's work, but there are mouths to feed.  Please help out.
+I'm married and have two kiddos and one on the way.  That is to say I've had to fit the development of these ideas in among a lot of other things.  I'd love to make this my life's work, but there are mouths to feed.  Please help out by buying the book on gitbook.  You'll also get updates to this edition.
 
 I don't know what I'm talking about.  I took microeconomics at UT but took a macro course a jr. college for credit.  I've tried to read a good bit and pick a few things up, but there is a high likelihood that I've gotten a number of things completely wrong.  Feel free to correct me.  This book is hosted on github and I take pull requests.
 
-The thought that I might have something to say about the future of money is actually an absurd thought for me to consider, but, never the less, I've put together the because I just couldn't stop thinking about it.
+The thought that I might have something to say about the future of money is actually an absurd thought for me to consider, but, never the less, I've put this together because I just couldn't stop thinking about it.
 
 I voted for Perot in '96, Bush in '00, Kerry in '04, Obama in '08 and '12.  That is to say I'm delusional, easily deceived, vengeful, hopeful, and easily strung along.  Also my political allegiance is all over the map.
 

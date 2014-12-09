@@ -12,7 +12,7 @@ It may also hold:
 
 - Registered forms of artificial and real capital and their ownership history.
 
-The public ledger is secured via a form of cryptogrophy that ensures that back histories cannot be manipulated.  Any transactions that need to be done via rule of law need to be new transactions at the top of the stack and registered as rule of law transactions.  This will hold courts and state agencies accountable. Abuse of the system may result in veto of an agencies account.
+The public ledger is secured via a form of cryptography that ensures that back histories cannot be manipulated.  Any transactions that need to be done via rule of law need to be new transactions at the top of the stack and registered as rule of law transactions.  This will hold courts and state agencies accountable. Abuse of the system may result in veto of an agencies account.
 
 The public ledger has a number of benefits.
 

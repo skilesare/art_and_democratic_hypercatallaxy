@@ -10,7 +10,7 @@ Real capital tends to degrade on its own and require investment to maintain its 
 
 Ultimately, capital will continue to concentrate without some release valve.  For this we propose a heavy capital tax as a part of the Legacy process.  This allows a capitalist the fruits of her labor during her lifetime, but distributes the proceeds back to society at the end of her life.
 
-Ultimately the burden on the capitalist is increased.  Some of the economic rents that would be paid to the capitalist will now be distributed via demurrage. In addition the the companies that the capitalist is investing in will have a shorter shelf life and she will need to be proactive in timing the selling of an asset.
+Ultimately the burden on the capitalist is increased.  Some of the economic rents that would be paid to the capitalist will now be distributed via demurrage. In addition the companies that the capitalist is investing in will have a shorter shelf life and she will need to be proactive in timing the selling of an asset.
 
 This new system is 'less fair' to the capitalist than the current system.  This by design as we feel the capitalist has an unnatural advantage under non-hypercapitalism.
 

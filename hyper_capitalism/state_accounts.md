@@ -1,6 +1,6 @@
 ###  State Accounts
 
-There are two type of state accounts:
+There are three type of state accounts:
 
 1. Issuing Accounts
 2. Domain Accounts
@@ -10,11 +10,11 @@ There can only be one issuing account.  This is the state agency(or corporation)
 
 An example of an issuing account would be The United States of America or The European Union.
 
-A strong corporation could, for a time support a currency with the future view of nationalizing the currency when it gains enough steam to over ride the national currency.
+A strong corporation could, for a time support a currency with the future view of nationalizing the currency when it gains enough steam to override the national currency.
 
 Domain accounts are accounts that the Issuer can charter to offer public services and to operate in the public interest.  These Accounts can collect Elective taxes.
 
-Examples are a State government in the united state, a country account in the EU.  There can also be much smaller agencies.  A dock workers union account could be chartered and dock workers, and anyone wanting to support the dock workers could elect to pay taxes to the union and get a vote.  Agency Accounts have the power to select their members.
+Examples are a State government in the United States, a country account in the EU.  There can also be much smaller domains.  A dock workers union account could be chartered and dock workers, and anyone wanting to support the dock workers could elect to pay taxes to the union and get a vote.  Domain Accounts have the power to select their members.
 
 Domain and Issuer state accounts will issue citizens the right to veto their ability to 'catch up.' If an account cannot 'catch up' then it cannot issue payment, receive payment, or claim pref payments.  More will be discussed on this in the chapter on Veto.
 
@@ -23,3 +23,5 @@ The final type of account is an agency account.  These accounts do not have taxe
 A good example of this type of account would be a city police department that is issued funds by the city domain account.  It would be onerous to have to elect taxes for every city service you wanted to participate in.  With agency accounts, citizens gain access to the service also get a selective veto.  The selective veto allows citizens to bar payments from the domain account to one of its agency accounts.  In this way, selective political action can be taken, even if only symbolic to defund one distastefully run area of government without disrupting essential services.
 
 Another feature of state accounts is that they cannot participate in the private pool for either receiving or transmitting payments.  All payments into out of the account will be free to view on the public ledger.
+
+We must speak to the legitimacy of the state under such a scenario where citizens are constantly attacking its ability to operate.  This could radically destabilize the state and make it mostly accountable to small interests.  As a result we propose a set schedule be established in accordance the size of the domain institution.  For example, the United States government's core issuing account may only be up for veto every 4 years, and once vetoed, may have 6 months to attempt to reverse the veto before it goes into effect.  A local water district may have a 3 month veto cycle with only a week to reverse the veto.

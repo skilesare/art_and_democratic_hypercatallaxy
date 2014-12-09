@@ -57,6 +57,7 @@
            * [The Teacher](hyper_capitalism/the_teacher.md)
            * [The Warmonger](hyper_capitalism/the_warmonger.md)
            * [The Lobbiest](hyper_capitalism/the_lobbiest.md)
+           * The Doctor
        * [Simulations](hyper_capitalism/simulations.md)
 * [Book III - The Pattern Language](the_pattern_language/README.md)
    * [Global Level](the_pattern_language/global_level.md)

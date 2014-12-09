@@ -53,7 +53,7 @@
            * [The Union](hyper_capitalism/the_union.md)
            * [The Parent](hyper_capitalism/the_single_mother.md)
            * [The Child](hyper_capitalism/the_child.md)
-           * [The Begger](hyper_capitalism/the_begger.md)
+           * [The Beggar](hyper_capitalism/the_begger.md)
            * [The Teacher](hyper_capitalism/the_teacher.md)
            * [The Warmonger](hyper_capitalism/the_warmonger.md)
            * [The Lobbiest](hyper_capitalism/the_lobbiest.md)

@@ -152,7 +152,7 @@ Dr. Lessig's MayDayPac was the instigator for this entire undertaking.  In June 
 
 [Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy](http://www.amazon.com/gp/product/0374227357/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0374227357&linkCode=as2&tag=everybase-20&linkId=I5RKD7YUGBHP6ACY)
 
-Dr. Fukuyama's books are really interesting for anyone that engages in political thought.  The world would be a better place if everyone had to read them before gaining the right to vote.  In them we find the ammunition to ultimately reject the libertarian fallacy that is propagated by many  technocratic millionaires that may or may not live in Silicon Valley.
+Dr. Fukuyama's books are really interesting for anyone that engages in political thought.  The world would be a better place if everyone had to read them before gaining the right to vote.  In them we find the ammunition to ultimately reject the libertarian fallacy that is propagated by many technocratic millionaires and that may or may not live in Silicon Valley.
 
 Fukuyama puts forward that three things are needed for advancing, productive political order:
 
@@ -160,7 +160,7 @@ Fukuyama puts forward that three things are needed for advancing, productive pol
 2.  The rule of law
 3.  Democratic Accountability
 
-His works have caused me to back off some of the severity that the the democratic part of democratic hypercapitalism as originally architected. The govern must be strong, but also accountable.  We can't have people kneecapping the government at every turn of a hat.  As a result I've added gradated time periods for the democratic veto of accounts as the level of government gets bigger, the time periods to allowed to reverse the veto increase.
+His works have caused me to back off some of the severity that the the democratic part of democratic hypercapitalism as originally architected. The government must be strong, but also accountable.  We can't have people kneecapping the government at every turn of a hat.  As a result I've added gradated time periods for the democratic veto of accounts as the level of government gets bigger, the time periods to allowed to reverse the veto increase.
 
 In addition, I hope that democratic hypercapitalism will overcome our tendencies to approach our economy in a patrimonial fashion while allowing us to maintain the patrimonial ties to family and friends that are key to our humanity.
 

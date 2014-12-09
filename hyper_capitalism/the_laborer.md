@@ -14,7 +14,7 @@ The laborer will be able to see where the prefs are coming from, and since they 
 
 What of the prefs in the laborer's account that are owned by the wage payer? If the company is wise it will invest in the employee and help the employee improve their lifetime earnings.  The more the company can increase the laborers earnings, the higher a chance that the company will reap more from the employee's prefs than were paid into the employee's wage.
 
-We believe that it is likely that this arrangement will lead to the 'end of employment' as we know it. Employers will begin to work with Unions, funding the laborer education and improvement.  Labor will begin to be hired on a contract base from a pool of labor.  Methods will be developed to match the proper laborer with the proper job.  When the employee rolls off a job, the employer will likely direct their training so that they either:
+We believe that it is likely that this arrangement will lead to the 'end of employment' as we know it. Employers will begin to work with Unions, funding the laborer education and improvement.  Labor will begin to be hired on a contract basis from a pool of labor.  Methods will be developed to match the proper laborer with the proper job.  When the employee rolls off a job, the employer will likely direct their training so that they either:
 
 1. Return more skilled
 2. Move on to work for another company at a higher wage.

@@ -6,4 +6,6 @@ How does our system affect the company?  Under our system the company inherits a
 
 The Company will have a new tension.  If they hold cash it will demurrage, so the stock owners will want the company to put cash to work quickly, but they will also not want them to take undue risk.
 
-In our opinion this is the price to be paid by a company for limited liability.  We also believe this will lead to much more dynamic and adaptable companies. If a company must invest excess cash or risk losing it to demurrage they will be much more likely to find good, productive ways of putting the cash to work instead of letting sit in a bank vault.  The work they do will much more directly impact their well being that the areas that a bank manager would have put the money to work in.
+In our opinion this is the price to be paid by a company for limited liability.  We also believe this will lead to much more dynamic and adaptable companies. If a company must invest excess cash or risk losing it to demurrage they will be much more likely to find good, productive ways of putting the cash to work instead of letting sit in a bank vault.
+
+Companies will also benefit from the de-risked nature of employment.  Since the company will gain prefs in their employees they have much to gain by helping those employees to become more valuable and more productive so that they return more cash to the company than was paid out.

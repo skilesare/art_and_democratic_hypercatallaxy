@@ -8,4 +8,4 @@ The new loan officer will bid on chunks of loans from the pool.  The proceeds fr
 
 Most loan officers will have alternate forms of income in the short term while they build their portfolios.  In the future they will be tied to the companies and individuals they loaned to and will benefit when they thrive.  The relationship will be bounded by the lives of the two entities and not the length of the loan.
 
-This new arrangement will be a hit to the commercial banking industry but a benefit to humanity.  We are not sorry for ruining the banks industry.
+This new arrangement will be a hit to the commercial banking industry but a benefit to humanity.  We are not sorry for ruining the banking industry.

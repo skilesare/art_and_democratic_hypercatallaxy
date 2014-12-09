@@ -1,4 +1,4 @@
-# The Single Mother
+# The Parent
 
 Who: The parent is the caretaker of a child. This has traditionally been the domain of the mother, but it should not be restricted as such.  It can be a father or, in the lack of a biological mother and father, a legal guardian.
 

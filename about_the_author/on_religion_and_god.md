@@ -1,6 +1,6 @@
 # On Religion and God
 
-I mentioned being a 'Alexandrian Presbyterian earlier and I wanted to speak a bit more about that and the religious influence on this work.
+I mentioned being a 'Alexandrian Presbyterian' earlier and I wanted to speak a bit more about that and the religious influence on this work.
 
 I have tried to leave religion out of this work as much as possible.  At a certain base level though it is inseparable that this work has 'do unto others as you would have them do unto you' in it.  It is also seeks to be redemptive in nature in that this system for money will put forward a system that connects all of us in a deeper way than we currently are connected.
 

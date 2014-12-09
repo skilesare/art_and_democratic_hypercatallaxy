@@ -75,7 +75,7 @@ Each transaction will be accompanied by the transfer of prefs.  Prefs entitle th
 
 First the tax will be figured.  Say my account's total  tax rate is 25% and my payment is $100.  $25 will be deposited in the state agencies that my tax flows into.  If the pass through rate is 33%, the remaining $75 will be split into $25 and $50.  I will receive the $50 in my account and the $25 will be 'passed through' to the accounts that own prefs in my account.  This all occurs on a 'catch up.'
 
-The pass thorough does not occur an infinite number of times, but should happen at least 3 or 4 times.  This amount can be adjusted higher to further distribute cash if capital's tendency to accumulate out runs the current distribution rate.
+The pass thorough does not occur an infinite number of times, but should happen at least 3 or 4 times.  This amount can be adjusted higher to further distribute cash if capital's tendency to accumulate out runs the current distribution rate. The goal here is to show people their interconnectedness. It will not take many 'degrees of seperation' to prove this point.
 
 The central system will force accounts to catch up on a monthly basis, but generally accounts will catch up more often as they engage in commerce.  A account cannot claim its pref payments, accept money, or pay money unless it is caught up.
 
@@ -111,9 +111,9 @@ Education is one of the most underpaid careers in the modern world.  It is truly
 
 ## Statutory Theft
 
-Prefs can not be traded on the open market.  Any entity or citizen that schemes to try to lay a claim on the value of prefs or to future revenue from prefs will be guilty of Statutory Theft.  In a sense, the collected prefs become a part of a person and cannot be sold and no other entity can have dominion over them.
+Prefs can not be traded on the open market.  Any entity or citizen that schemes to try to lay a claim on the value of prefs or to future revenue from prefs will be guilty of Statutory Theft.  In a sense, the collected prefs become a part of a person and cannot be sold and no other entity can have dominion over them.  When we speak of the laborer has having an 'inaliable right to the full output of her labor,' this is what we mean.  No one can take these prefs from a person and person can no more sell them or give them up than they can their right to life, liberty, and the pursuit of happiness.
 
-## Modified Bankrupcy
+## Modified Bankruptcy
 
 Bankruptcy will change slightly.  All existing capital can be wiped out from an account, but past a certain date, the 'clear out date', the creditors can lay no more claim on new income.  The creditors can also not take the right to future pref payments.
 

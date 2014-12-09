@@ -30,12 +30,23 @@ The levers of economic manipulation controlled by the issuer of the currency
 8. Retaining Rate
 9. Issuance Rate
 10. Legacy Rate
+11. Pass Through Rate
+12. Pool loan interest rate
 
 The political objects tied to the currency
 
-10. Required Tax
-11. Elective Tax
-12. Veto
+13. Required Tax
+14. Elective Tax
+15. Veto
+
+Other items involved in commerce:
+
+16. Personal Loans
+17. Clear Outs
+18. Education Prefs
+19. Eldercare Legacy
+20. Up and Out Welfare
+
 
 
 

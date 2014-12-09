@@ -145,3 +145,25 @@ Mike is a bit controversial after drawing attention to labor conditions in China
 
 Dr. Lessig's MayDayPac was the instigator for this entire undertaking.  In June of 2014 I was trying to push the Pac and get my friends and family to contribute.  I understood the fundamental reform that was necessary and I thought this Pac idea was a good way to get the reform done.  Leading up to the July 4th deadline to raise $5 million dollars it looked like the movement would fall short.  I started thinking about the problem and other ways to force institutional change.  My question became 'what if the way money works is really the problem?'  'If we can't change how the system uses money, can we change money?'  'Can we get to the root of this problem and force politicians to be accountable to the people they claim to represent and not the funders of political campaigns.  Ironically, I don't know that the system I've dreamed up here does much to change the way elections are funded.  It does try to give the power back to the people by allowing to them to block the operation of government institutions that they have a fundamental disagreement with.
 
+
+**Francis Fukuyama**
+
+[The Origins of Political Order: From Prehuman Times to the French Revolution](http://www.amazon.com/gp/product/0374533229/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0374533229&linkCode=as2&tag=everybase-20&linkId=EUHSIVLZLP2DRAVV)
+
+[Political Order and Political Decay: From the Industrial Revolution to the Globalization of Democracy](http://www.amazon.com/gp/product/0374227357/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0374227357&linkCode=as2&tag=everybase-20&linkId=I5RKD7YUGBHP6ACY)
+
+Dr. Fukuyama's books are really interesting for anyone that engages in political thought.  The world would be a better place if everyone had to read them before gaining the right to vote.  In them we find the ammunition to ultimately reject the libertarian fallacy that is propagated by many  technocratic millionaires that may or may not live in Silicon Valley.
+
+Fukuyama puts forward that three things are needed for advancing, productive political order:
+
+1.  A strong State
+2.  The rule of law
+3.  Democratic Accountability
+
+His works have caused me to back off some of the severity that the the democratic part of democratic hypercapitalism as originally architected. The govern must be strong, but also accountable.  We can't have people kneecapping the government at every turn of a hat.  As a result I've added gradated time periods for the democratic veto of accounts as the level of government gets bigger, the time periods to allowed to reverse the veto increase.
+
+In addition, I hope that democratic hypercapitalism will overcome our tendencies to approach our economy in a patrimonial fashion while allowing us to maintain the patrimonial ties to family and friends that are key to our humanity.
+
+ 
+
+

@@ -8,6 +8,6 @@ A corporation may choose to issue citizen accounts to anyone alive.  We think th
 
 In the most grand scheme, the citizens of the world may attempt to create a global corporation where any living person can be a citizen.
 
-Citzen accounts have the power of veto over state accounts that they contribute taxes toward.  They can also veto the issuing of funds from one domain account to its agency accounts.
+Citizen accounts have the power of veto over state accounts that they contribute taxes toward.  They can also veto the issuing of funds from one domain account to its agency accounts.
 
 

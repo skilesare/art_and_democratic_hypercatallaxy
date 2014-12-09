@@ -14,7 +14,7 @@ States can also continue to tax legal entities with additional taxes, but must a
 
 It is not all roses for the state.  The state is under a new obligation and threat of veto.
 
-All citizen accounts wield the veto.  The 'catch up' of state accounts can be blocked by negative vote of the citizens at any time.  All citizens that pay taxes to a state account have a 'abstain', 'deny', 'override' vote on the operation of that account.
+All citizen accounts wield the veto.  The 'catch up' of state accounts can be blocked by negative vote of the citizens at set time intervals.  All citizens that pay taxes to a state account have a 'abstain', 'deny', 'override' vote on the operation of that account.
 
 In order to protect the general operation of the state, the state will want to create agency accounts.  Citizens can block these agency accounts individually instead of blocking the function of the entire state.
 

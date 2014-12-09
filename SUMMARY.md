@@ -39,6 +39,7 @@
        * [Education Prefs](hyper_capitalism/education_prefs.md)
        * [Eldercare Legacy](hyper_capitalism/eldercare_legacy.md)
        * [Up and Out Welfare](hyper_capitalism/up_and_out_welfare.md)
+       * Healthcare
    * [Democratic Capitalisim Modeled](hyper_capitalism/democratic_capitalisim_modeled.md)
        * [The Stakeholders](hyper_capitalism/the_stakeholders.md)
            * [The Laborer](hyper_capitalism/the_laborer.md)

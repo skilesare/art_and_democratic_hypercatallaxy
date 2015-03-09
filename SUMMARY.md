@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * Introduction
 * [About the Author](about_the_author/README.md)
    * [On Influences](about_the_author/on_influences.md)
    * [On Religion and God](about_the_author/on_religion_and_god.md)

@@ -55,7 +55,7 @@ State accounts have the least amount of power because a group of citizens have t
 
 Citizens can elect to come under the domain of certain state type accounts.  An example of this would be a resident of Texas coming under the Texas State account.  The The Texas state account will have its own set of taxes.  In this way, a citizen can join many theoretical 'state' organizations.  Another example might be a union that the citizen is a member of.  They want a portion of their pref payments to go to the support of that union so they elect to be taxed by that account.  They also gain voting rights over that account when they are taxed by it.
 
-## Legal Entitites
+## Legal Entities
 
 Legal Entities will have Legal Entity accounts.  Legal entity accounts have a bit less power than citizen accounts.  The cannot vote and cannot initiate private transactions but can receive them.
 

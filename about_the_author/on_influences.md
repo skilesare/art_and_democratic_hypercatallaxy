@@ -119,7 +119,7 @@ This also should be required reading for High School students.
 
 I don't know much about the man himself, but if you have event the slightest interest of what money is and how it works(and you are reading this...so...), this is a great, quick read that will give you the basics.  It will quickly dispel myths like 'we just keep printing money!' and 'back to the Gold standard!'  Listening to this lead to the patterns on issuing new money and how to manage that process.
 
-The big take away was this: Inflation and deflation occur when there is an imbalance in the supply of money and the production of a society.  In other words, we can print as much money as we want as long as we can keep up with an equal amount of production.  Not only could we....but we have to to avoid a fluctuating currency.
+The big take away was this: Inflation and deflation occur when there is an imbalance in the supply of money and the production of a society.  In other words, we can print as much money as we want as long as we can keep up with an equal amount of production.  Not only could we....but we have to avoid a fluctuating currency.
 
 **John Pipper**
 
@@ -160,7 +160,7 @@ Fukuyama puts forward that three things are needed for advancing, productive pol
 2.  The rule of law
 3.  Democratic Accountability
 
-His works have caused me to back off some of the severity that the the democratic part of democratic hypercapitalism as originally architected. The government must be strong, but also accountable.  We can't have people kneecapping the government at every turn of a hat.  As a result I've added gradated time periods for the democratic veto of accounts as the level of government gets bigger, the time periods to allowed to reverse the veto increase.
+His works have caused me to back off some of the severity that the democratic part of democratic hypercapitalism as originally architected. The government must be strong, but also accountable.  We can't have people kneecapping the government at every turn of a hat.  As a result I've added gradated time periods for the democratic veto of accounts as the level of government gets bigger, the time periods to allowed to reverse the veto increase.
 
 In addition, I hope that democratic hypercapitalism will overcome our tendencies to approach our economy in a patrimonial fashion while allowing us to maintain the patrimonial ties to family and friends that are key to our humanity.
 

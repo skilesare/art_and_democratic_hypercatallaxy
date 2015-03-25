@@ -10,7 +10,7 @@ This book is not *finished*. It has barely been proofread.  Reader be warned.
 
 This book is available from gitbook.io in pdf, epub, and kindle formats at [https://www.gitbook.io/book/skilesare/art-and-democratic-hypercapitalism](https://www.gitbook.io/book/skilesare/art-and-democratic-hypercapitalism "Buy Digital Version on Gitbook.io").  It costs $15.  It is not a complete work and purchasing an official version there will allow you to receive updates and revisions when they are published. It will also help me continue exploring this topic and adding to the book.
 
-We will be adding a link in the near future to purchase a physical version.
+We will be adding a link soon to purchase a physical version.
 
 This book is covered under the creative commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license that is included toward the end of the book.
 

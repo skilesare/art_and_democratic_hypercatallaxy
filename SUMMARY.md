@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [About the Author](about_the_author/README.md)
    * [On Influences](about_the_author/on_influences.md)
-   * [On Religion and God](about_the_author/on_religion_and_god.md)
 * [Book I - Art - A new form of money](book_iii_-_art/README.md)
    * [Art - As Desired](book_iii_-_art/art_-_as_desire.md)
    * [Assumptions](book_iii_-_art/assumptions.md)

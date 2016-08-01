@@ -1,5 +1,7 @@
 # Simulations
 
+* http://catallax.info/news/2015/4/19/a-published-model-of-hypercapitalism
+* http://runnable.com/VTBkszswv6lIdEFR/hypercapitalism-sample-economy-for-node-js-and-hello-world
 * What happens when someone choses not use their money?
 * What happens when a capitalist choses to live off their economic rent?
 * What happens when a family's expenses increase from $6000 to $6600 a year?
